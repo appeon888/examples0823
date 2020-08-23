@@ -3,7 +3,8 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "PB Examples.pbt";
+ 1 "conflictapp.pbt";
 @end;
-DefaultTarget "PB Examples.pbt";
+DefaultTarget "conflictapp.pbt";
 DefaultExportEncode "HEXANSCII";
-DefaultRemoteTarget "PB Examples.pbt";
+DefaultRemoteTarget "conflictapp.pbt";
