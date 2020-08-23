@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_sheet.srw
+HA$PBExportHeader$w_graph_sheet.srw
 $PBExportComments$Generalized maintenance ancestor for a graph in a window.
 forward
 global type w_graph_sheet from w_center

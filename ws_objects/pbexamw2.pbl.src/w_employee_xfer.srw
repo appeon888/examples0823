@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_employee_xfer.srw
+HA$PBExportHeader$w_employee_xfer.srw
 $PBExportComments$Example of updating a TreeView using drag and drop
 forward
 global type w_employee_xfer from w_center

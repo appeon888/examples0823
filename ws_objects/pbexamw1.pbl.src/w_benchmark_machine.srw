@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_benchmark_machine.srw
+HA$PBExportHeader$w_benchmark_machine.srw
 $PBExportComments$Window to enter type of test machine
 forward
 global type w_benchmark_machine from w_center

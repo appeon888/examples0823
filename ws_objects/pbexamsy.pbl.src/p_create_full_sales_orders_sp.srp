@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_create_full_sales_orders_sp.srp
+HA$PBExportHeader$p_create_full_sales_orders_sp.srp
 $PBExportComments$Pipeline object using a Stored Procedure to create a new table with all Sales Order information
 PIPELINE(source_connect=PB Demo DB V2019,destination_connect=PB Demo DB V2019,type=create,commit=100,errors=100,keyname="sales_order_key")
 SOURCE(name="sp_full_sales_orders",COLUMN(type=long,name="id",dbtype="integer",nulls_allowed=yes)

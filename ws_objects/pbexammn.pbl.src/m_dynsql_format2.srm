@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_dynsql_format2.srm
+HA$PBExportHeader$m_dynsql_format2.srm
 $PBExportComments$Menu for Dynamic SQL: Format 2 Example
 forward
 global type m_dynsql_format2 from m_dynsql_frame

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mdi_quick_select.srw
+HA$PBExportHeader$w_mdi_quick_select.srw
 $PBExportComments$MDI Frame used for Quick Select Example
 forward
 global type w_mdi_quick_select from w_center

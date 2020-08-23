@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_print_employee_roster.srw
+HA$PBExportHeader$w_print_employee_roster.srw
 $PBExportComments$Produces printed report with control breaks; demonstatrates use of several print functions
 forward
 global type w_print_employee_roster from w_center

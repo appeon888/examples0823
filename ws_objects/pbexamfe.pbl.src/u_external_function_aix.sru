@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_external_function_aix.sru
+HA$PBExportHeader$u_external_function_aix.sru
 $PBExportComments$Cross platform user object for AIX
 forward
 global type u_external_function_aix from u_external_function

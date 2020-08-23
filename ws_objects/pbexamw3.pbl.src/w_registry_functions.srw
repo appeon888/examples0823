@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_registry_functions.srw
+HA$PBExportHeader$w_registry_functions.srw
 $PBExportComments$Window to demonstrate the use of the registry functions
 forward
 global type w_registry_functions from w_center

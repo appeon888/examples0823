@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_datawindow_style_frame.srw
+HA$PBExportHeader$w_datawindow_style_frame.srw
 $PBExportComments$MDI Frame for Datawindow style examples
 forward
 global type w_datawindow_style_frame from w_center

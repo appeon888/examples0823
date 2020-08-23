@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_toolbar_func.srm
+HA$PBExportHeader$m_toolbar_func.srm
 $PBExportComments$Menu to test new toolbar functionality
 forward
 global type m_toolbar_func from menu

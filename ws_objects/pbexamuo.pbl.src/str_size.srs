@@ -1,4 +1,4 @@
-﻿$PBExportHeader$str_size.srs
+HA$PBExportHeader$str_size.srs
 $PBExportComments$Used on w_scale
 global type str_size from structure
     int x

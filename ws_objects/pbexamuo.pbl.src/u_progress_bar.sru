@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_progress_bar.sru
+HA$PBExportHeader$u_progress_bar.sru
 $PBExportComments$Progress meter, similar to the ones found in the Setup programs.
 forward
 global type u_progress_bar from UserObject

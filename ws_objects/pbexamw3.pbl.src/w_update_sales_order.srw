@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_update_sales_order.srw
+HA$PBExportHeader$w_update_sales_order.srw
 $PBExportComments$Example of using rowfocuchanging event
 forward
 global type w_update_sales_order from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_empl_salaries_in_dept.srd
+HA$PBExportHeader$d_empl_salaries_in_dept.srd
 $PBExportComments$Graph: Employee Salaries for specified department
 release 9;
 datawindow(units=0 timer_interval=0 color=0 processing=3 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 0 print.margin.right = 0 print.margin.top = 0 print.margin.bottom = 0 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

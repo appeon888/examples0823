@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_distrib_ex.srw
+HA$PBExportHeader$w_distrib_ex.srw
 $PBExportComments$Distributed PB Example
 forward
 global type w_distrib_ex from w_dpb_launcher

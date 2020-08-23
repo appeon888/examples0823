@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_sp_order_items.srd
+HA$PBExportHeader$d_sp_order_items.srd
 $PBExportComments$Stored Proc Source:  Line items for a Sales Order
 release 9;
 datawindow(units=0 timer_interval=0 color=1086902488 processing=1 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 110 print.margin.right = 110 print.margin.top = 97 print.margin.bottom = 97 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no grid.lines=0 )

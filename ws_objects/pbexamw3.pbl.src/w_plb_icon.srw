@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_plb_icon.srw
+HA$PBExportHeader$w_plb_icon.srw
 $PBExportComments$Window to display an icon
 forward
 global type w_plb_icon from w_center

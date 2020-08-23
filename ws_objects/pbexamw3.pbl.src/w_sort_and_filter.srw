@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sort_and_filter.srw
+HA$PBExportHeader$w_sort_and_filter.srw
 $PBExportComments$Uses a variety of datawindow functions including sort and filter
 forward
 global type w_sort_and_filter from w_center

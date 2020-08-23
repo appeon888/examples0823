@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_date_datawindow.srd
+HA$PBExportHeader$d_date_datawindow.srd
 $PBExportComments$DataWindow for Year 2000 DataWindow example
 release 9;
 datawindow(units=0 timer_interval=0 color=80242744 processing=0 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 110 print.margin.right = 110 print.margin.top = 97 print.margin.bottom = 97 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

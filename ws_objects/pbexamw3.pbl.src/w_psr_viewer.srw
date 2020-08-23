@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_psr_viewer.srw
+HA$PBExportHeader$w_psr_viewer.srw
 $PBExportComments$Select a .psr file and view the PSR report file on the screen. Window and DataWindow will resize to match contents of the DataWindow.
 forward
 global type w_psr_viewer from w_center

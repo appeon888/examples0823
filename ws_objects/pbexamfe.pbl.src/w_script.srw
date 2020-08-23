@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_script.srw
+HA$PBExportHeader$w_script.srw
 $PBExportComments$Window to display a script
 forward
 global type w_script from w_center

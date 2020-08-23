@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_contact_maintenance.srw
+HA$PBExportHeader$w_contact_maintenance.srw
 $PBExportComments$Window displaying DataWindow using buttons
 forward
 global type w_contact_maintenance from w_center

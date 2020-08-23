@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_frame_queries.srm
+HA$PBExportHeader$m_frame_queries.srm
 $PBExportComments$Menu for custom MDI frame with DW button bar user object
 forward
 global type m_frame_queries from menu

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_create_ole_blob.srp
+HA$PBExportHeader$p_create_ole_blob.srp
 $PBExportComments$Pipeline object to create a new table with an OLE Blob column
 PIPELINE(source_connect=PB Demo DB V2019,destination_connect=PB Demo DB V2019,type=create,commit=100,errors=100,keyname="ole_x")
 SOURCE(name="ole",COLUMN(type=varchar,name="id",dbtype="char(20)",key=yes,nulls_allowed=no)

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_quick_select.srm
+HA$PBExportHeader$m_quick_select.srm
 $PBExportComments$Menu for Mdi Frame w_quick_select
 forward
 global type m_quick_select from menu

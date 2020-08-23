@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_puzzle.srw
+HA$PBExportHeader$w_puzzle.srw
 $PBExportComments$Puzzle game
 forward
 global type w_puzzle from w_center

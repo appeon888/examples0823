@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_progressbars.srw
+HA$PBExportHeader$w_progressbars.srw
 $PBExportComments$PB 7 Progress Bar Controls
 forward
 global type w_progressbars from w_center

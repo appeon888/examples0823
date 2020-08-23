@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_expressions.srw
+HA$PBExportHeader$w_dw_expressions.srw
 $PBExportComments$Window showing new DW expressions
 forward
 global type w_dw_expressions from w_center
@@ -525,7 +525,7 @@ long textcolor = 33554432
 alignment alignment = right!
 borderstyle borderstyle = stylelowered!
 string mask = "##0"
-string displaydata = "À"
+string displaydata = "$$HEX1$$c000$$ENDHEX$$"
 end type
 
 type st_19 from statictext within w_dw_expressions
@@ -577,7 +577,7 @@ long textcolor = 33554432
 alignment alignment = right!
 borderstyle borderstyle = stylelowered!
 string mask = "##0"
-string displaydata = "À"
+string displaydata = "$$HEX1$$c000$$ENDHEX$$"
 end type
 
 type em_ar from editmask within w_dw_expressions
@@ -596,7 +596,7 @@ string text = "0"
 alignment alignment = right!
 borderstyle borderstyle = stylelowered!
 string mask = "##0"
-string displaydata = "À"
+string displaydata = "$$HEX1$$c000$$ENDHEX$$"
 end type
 
 type st_13 from statictext within w_dw_expressions

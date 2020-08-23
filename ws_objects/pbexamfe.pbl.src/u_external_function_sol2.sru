@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_external_function_sol2.sru
+HA$PBExportHeader$u_external_function_sol2.sru
 $PBExportComments$Cross platform user object for Solaris
 forward
 global type u_external_function_sol2 from u_external_function

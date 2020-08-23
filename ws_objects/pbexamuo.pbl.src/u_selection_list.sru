@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_selection_list.sru
+HA$PBExportHeader$u_selection_list.sru
 $PBExportComments$Selects entry as user types characters
 forward
 global type u_selection_list from userobject

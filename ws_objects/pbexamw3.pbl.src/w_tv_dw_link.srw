@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_tv_dw_link.srw
+HA$PBExportHeader$w_tv_dw_link.srw
 $PBExportComments$Window showing linking a TreeView and DataWindows
 forward
 global type w_tv_dw_link from w_center

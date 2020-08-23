@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_print_employee_roster_dw.srw
+HA$PBExportHeader$w_print_employee_roster_dw.srw
 $PBExportComments$Prints the employee roster with control breaks by department; Uses DataWindow Production Reporting and the DataWindow Print function.
 forward
 global type w_print_employee_roster_dw from w_center

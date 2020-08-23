@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_open_help.srf
+HA$PBExportHeader$f_open_help.srf
 $PBExportComments$Opens the w_help window
 global type f_open_help from function_object
 end type

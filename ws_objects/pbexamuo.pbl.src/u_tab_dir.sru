@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_tab_dir.sru
+HA$PBExportHeader$u_tab_dir.sru
 $PBExportComments$Phone directory tab page
 forward
 global type u_tab_dir from UserObject

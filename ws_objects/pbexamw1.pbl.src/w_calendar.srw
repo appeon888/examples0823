@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_calendar.srw
+HA$PBExportHeader$w_calendar.srw
 $PBExportComments$Window to demonstrate the user object drop down calendar
 forward
 global type w_calendar from w_center

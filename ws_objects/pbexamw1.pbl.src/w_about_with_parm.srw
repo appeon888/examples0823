@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_about_with_parm.srw
+HA$PBExportHeader$w_about_with_parm.srw
 $PBExportComments$A Generic About window that is opened using the OpenSheetWithParm feature. This window then takes a string passed to it and formats it for the about window.
 forward
 global type w_about_with_parm from w_center

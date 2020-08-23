@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_runtime_systemfunctions.srw
+HA$PBExportHeader$w_runtime_systemfunctions.srw
 $PBExportComments$PB 8 - New System Functions
 forward
 global type w_runtime_systemfunctions from w_center

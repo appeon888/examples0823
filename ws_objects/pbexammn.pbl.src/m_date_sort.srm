@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_date_sort.srm
+HA$PBExportHeader$m_date_sort.srm
 $PBExportComments$Menu for Year 2000 sorting example
 forward
 global type m_date_sort from m_date_ancestor

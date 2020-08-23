@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_add_sales_order.srw
+HA$PBExportHeader$w_add_sales_order.srw
 $PBExportComments$Window to add a sales order
 forward
 global type w_add_sales_order from w_center

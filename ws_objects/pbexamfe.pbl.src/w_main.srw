@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_main.srw
+HA$PBExportHeader$w_main.srw
 $PBExportComments$Code Examples front-end
 forward
 global type w_main from window

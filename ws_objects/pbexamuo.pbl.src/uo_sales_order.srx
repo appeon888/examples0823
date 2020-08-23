@@ -1,4 +1,4 @@
-﻿$PBExportHeader$uo_sales_order.srx
+HA$PBExportHeader$uo_sales_order.srx
 $PBExportComments$Sales Order Proxy
 global type uo_sales_order from NonVisualObject
    private string ProxyName = "uo_sales_order"

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_scale.srw
+HA$PBExportHeader$w_scale.srw
 $PBExportComments$Shows how to scan the control array of a window and then resize all of the controls on the window when the window is resized
 forward
 global type w_scale from w_center

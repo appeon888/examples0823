@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_dw_ribbon_2.sru
+HA$PBExportHeader$u_dw_ribbon_2.sru
 $PBExportComments$DataWindow button bar
 forward
 global type u_dw_ribbon_2 from UserObject

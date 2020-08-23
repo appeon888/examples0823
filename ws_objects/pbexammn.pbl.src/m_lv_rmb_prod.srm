@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_lv_rmb_prod.srm
+HA$PBExportHeader$m_lv_rmb_prod.srm
 $PBExportComments$Product ListView RMB menu (inherited from m_lv_rmb)
 forward
 global type m_lv_rmb_prod from m_lv_rmb

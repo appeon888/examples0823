@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_update_prod.srw
+HA$PBExportHeader$w_update_prod.srw
 $PBExportComments$Window to update a product, used by w_prod_listview
 forward
 global type w_update_prod from Window

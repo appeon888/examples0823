@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_pie_graph.srd
+HA$PBExportHeader$d_pie_graph.srd
 $PBExportComments$Graph type DataWindow containing sales data shown in a pie graph. This pie graph shows PB4.0 features.
 release 9;
 datawindow(units=2 timer_interval=0 color=1090058488 processing=3 HTMLDW=no print.printername="" print.documentname="" print.orientation = 1 print.margin.left = 250 print.margin.right = 250 print.margin.top = 250 print.margin.bottom = 250 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_parse_ds_obj_string.srf
+HA$PBExportHeader$f_parse_ds_obj_string.srf
 $PBExportComments$Used by the DataWindow to Structure Utility - same as f_parse_obj_string, except it uses a DataStore
 global type f_parse_ds_obj_string from function_object
 end type

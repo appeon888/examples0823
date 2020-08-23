@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_meaning.srw
+HA$PBExportHeader$w_meaning.srw
 $PBExportComments$The meaning of life
 forward
 global type w_meaning from w_center

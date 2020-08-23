@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_emp_master_transaction_update.srp
+HA$PBExportHeader$p_emp_master_transaction_update.srp
 $PBExportComments$Update the master table with a transaction table
 PIPELINE(source_connect=PB Demo DB V2019,destination_connect=PB Demo DB V2019,type=update,commit=100,errors=100,keyname="emp_pipe_master")
 SOURCE(name="emp_pipe_transaction",COLUMN(type=long,name="emp_id",dbtype="integer",key=yes,nulls_allowed=no)

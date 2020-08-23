@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_employee_data_list.srd
+HA$PBExportHeader$d_employee_data_list.srd
 $PBExportComments$Tabular:  Empl. ID, SSN, DOB, PH, Status, Sal., StartDate
 release 9;
 datawindow(units=0 timer_interval=0 color=74481808 processing=0 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 1 print.margin.right = 1 print.margin.top = 1 print.margin.bottom = 1 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

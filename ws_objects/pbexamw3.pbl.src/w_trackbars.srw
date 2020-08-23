@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_trackbars.srw
+HA$PBExportHeader$w_trackbars.srw
 $PBExportComments$PB 7 Track Bar Controls
 forward
 global type w_trackbars from w_center

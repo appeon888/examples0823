@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_newspaper_slide_columns.srw
+HA$PBExportHeader$w_newspaper_slide_columns.srw
 $PBExportComments$Newspaper / Sliding columns examples
 forward
 global type w_newspaper_slide_columns from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mdi_main.srw
+HA$PBExportHeader$w_mdi_main.srw
 $PBExportComments$MDI:  Frame window
 forward
 global type w_mdi_main from w_center

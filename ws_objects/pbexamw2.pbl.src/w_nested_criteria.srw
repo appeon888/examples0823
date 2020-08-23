@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_nested_criteria.srw
+HA$PBExportHeader$w_nested_criteria.srw
 $PBExportComments$Related nested report w/criteria sheet for Nested Reports example.
 forward
 global type w_nested_criteria from w_nested_ancestor

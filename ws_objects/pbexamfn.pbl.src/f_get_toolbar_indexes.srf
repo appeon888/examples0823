@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_get_toolbar_indexes.srf
+HA$PBExportHeader$f_get_toolbar_indexes.srf
 $PBExportComments$Function to get all the indexes in a menu
 global type f_get_toolbar_indexes from function_object
 end type

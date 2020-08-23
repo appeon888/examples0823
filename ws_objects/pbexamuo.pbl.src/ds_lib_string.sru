@@ -1,4 +1,4 @@
-﻿$PBExportHeader$ds_lib_string.sru
+HA$PBExportHeader$ds_lib_string.sru
 $PBExportComments$Distributed PB example Datastore object used for retrieving datawindow objetcs from pbl
 forward
 global type ds_lib_string from datastore

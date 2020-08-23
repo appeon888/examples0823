@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dynamic_uo_work_area.srw
+HA$PBExportHeader$w_dynamic_uo_work_area.srw
 $PBExportComments$MDI Sheet that is the work area for the Dynamic User Object Example.
 forward
 global type w_dynamic_uo_work_area from w_center

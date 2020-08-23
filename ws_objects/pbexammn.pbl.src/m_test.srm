@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_test.srm
+HA$PBExportHeader$m_test.srm
 $PBExportComments$Generic test menu for PB examples
 forward
 global type m_test from menu

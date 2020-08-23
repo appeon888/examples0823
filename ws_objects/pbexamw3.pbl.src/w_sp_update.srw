@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sp_update.srw
+HA$PBExportHeader$w_sp_update.srw
 $PBExportComments$Example of updating a DataWindow through a stored procedure
 forward
 global type w_sp_update from w_center

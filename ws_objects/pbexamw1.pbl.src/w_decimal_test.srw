@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_decimal_test.srw
+HA$PBExportHeader$w_decimal_test.srw
 $PBExportComments$Shows various uses of decimal data with truncation and rounding
 forward
 global type w_decimal_test from w_center

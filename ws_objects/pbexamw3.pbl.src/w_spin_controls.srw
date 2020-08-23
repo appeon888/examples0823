@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_spin_controls.srw
+HA$PBExportHeader$w_spin_controls.srw
 $PBExportComments$Window that allows users to experiment with spin controls
 forward
 global type w_spin_controls from w_center

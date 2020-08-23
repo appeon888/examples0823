@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_rte_find.srw
+HA$PBExportHeader$w_rte_find.srw
 $PBExportComments$Find Dialog for RTE Example
 forward
 global type w_rte_find from w_center

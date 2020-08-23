@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_notepad_replace.srw
+HA$PBExportHeader$w_notepad_replace.srw
 $PBExportComments$Prompts for strings to search and replace; Used in notepad
 forward
 global type w_notepad_replace from w_center

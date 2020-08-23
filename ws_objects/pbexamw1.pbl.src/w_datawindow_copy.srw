@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_datawindow_copy.srw
+HA$PBExportHeader$w_datawindow_copy.srw
 $PBExportComments$Window used in the Copy DataWindow Example using ImportString()
 forward
 global type w_datawindow_copy from w_center

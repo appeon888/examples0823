@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_tag_help_frame.srm
+HA$PBExportHeader$m_tag_help_frame.srm
 $PBExportComments$Menu for frame window of Context-Sensitive MicroHelp example.
 forward
 global type m_tag_help_frame from menu

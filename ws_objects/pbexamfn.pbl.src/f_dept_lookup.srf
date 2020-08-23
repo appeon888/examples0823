@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_dept_lookup.srf
+HA$PBExportHeader$f_dept_lookup.srf
 $PBExportComments$Check if dept_id exists in department table
 global type f_dept_lookup from function_object
 end type

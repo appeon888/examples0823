@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_hyperlinks.srw
+HA$PBExportHeader$w_hyperlinks.srw
 $PBExportComments$PB7 HyperLink Controls
 forward
 global type w_hyperlinks from w_center

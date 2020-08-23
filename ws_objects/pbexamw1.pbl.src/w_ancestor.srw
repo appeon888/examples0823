@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_ancestor.srw
+HA$PBExportHeader$w_ancestor.srw
 $PBExportComments$Ancestor window for multi-lingual example.
 forward
 global type w_ancestor from w_center

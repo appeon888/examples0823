@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_criteria.srw
+HA$PBExportHeader$w_dw_criteria.srw
 $PBExportComments$Provide Query (Criteria) Mode for DataWindow
 forward
 global type w_dw_criteria from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_drilldown.srw
+HA$PBExportHeader$w_graph_drilldown.srw
 $PBExportComments$Master/Detail business-graph sample.  Two DWs (both are Graphs).
 forward
 global type w_graph_drilldown from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_date_scroller.sru
+HA$PBExportHeader$u_date_scroller.sru
 $PBExportComments$Change date up or down with VScrollBar
 forward
 global type u_date_scroller from UserObject

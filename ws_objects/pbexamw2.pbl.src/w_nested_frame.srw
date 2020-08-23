@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_nested_frame.srw
+HA$PBExportHeader$w_nested_frame.srw
 $PBExportComments$Frame window for Nested Reports example.
 forward
 global type w_nested_frame from w_center

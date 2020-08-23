@@ -1,4 +1,4 @@
-﻿$PBExportHeader$n_cst_parms.sru
+HA$PBExportHeader$n_cst_parms.sru
 $PBExportComments$Custom class user object containing parameters to be passed
 forward
 global type n_cst_parms from nonvisualobject

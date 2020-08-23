@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_runtime_filefunctions_popup.srw
+HA$PBExportHeader$w_runtime_filefunctions_popup.srw
 $PBExportComments$PB 8 - New File Functions
 forward
 global type w_runtime_filefunctions_popup from window

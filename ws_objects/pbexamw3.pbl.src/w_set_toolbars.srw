@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_set_toolbars.srw
+HA$PBExportHeader$w_set_toolbars.srw
 $PBExportComments$Sets toolbars
 forward
 global type w_set_toolbars from w_center

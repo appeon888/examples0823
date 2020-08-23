@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_shared_dddw.srw
+HA$PBExportHeader$w_shared_dddw.srw
 $PBExportComments$Example of sharing DropDownDataWindows.
 forward
 global type w_shared_dddw from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_external_function_unicode.sru
+HA$PBExportHeader$u_external_function_unicode.sru
 $PBExportComments$Cross platform user object for Unicode
 forward
 global type u_external_function_unicode from u_external_function

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_report_structure.sru
+HA$PBExportHeader$u_report_structure.sru
 $PBExportComments$User object used as a structure for the Example Report
 forward
 global type u_report_structure from nonvisualobject

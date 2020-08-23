@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_fish.srw
+HA$PBExportHeader$w_fish.srw
 $PBExportComments$Graphic fish swimming; shows uses of animation
 forward
 global type w_fish from w_center

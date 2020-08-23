@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_cancel_retrieval.srw
+HA$PBExportHeader$w_cancel_retrieval.srw
 $PBExportComments$Cancel DataWindow retrieval, printing
 forward
 global type w_cancel_retrieval from w_center

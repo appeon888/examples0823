@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mdi_first_next.srw
+HA$PBExportHeader$w_mdi_first_next.srw
 $PBExportComments$Frame for m_mdi_first_next menu
 forward
 global type w_mdi_first_next from w_center

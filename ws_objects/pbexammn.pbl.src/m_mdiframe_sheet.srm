@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_mdiframe_sheet.srm
+HA$PBExportHeader$m_mdiframe_sheet.srm
 $PBExportComments$MDI frame menu
 forward
 global type m_mdiframe_sheet from m_mdiframe

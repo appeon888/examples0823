@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_check_dayname.srf
+HA$PBExportHeader$f_check_dayname.srf
 $PBExportComments$Function that determines whether a date has the same day name as the day name specified.
 global type f_check_dayname from function_object
 end type

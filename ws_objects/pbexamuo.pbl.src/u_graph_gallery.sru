@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_graph_gallery.sru
+HA$PBExportHeader$u_graph_gallery.sru
 $PBExportComments$Gallery of graph types
 forward
 global type u_graph_gallery from UserObject

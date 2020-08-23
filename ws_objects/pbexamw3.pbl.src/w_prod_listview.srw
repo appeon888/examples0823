@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_prod_listview.srw
+HA$PBExportHeader$w_prod_listview.srw
 $PBExportComments$Listview of products, used by the w_add_sales_order
 forward
 global type w_prod_listview from w_center

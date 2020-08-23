@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_sort_and_filter.srm
+HA$PBExportHeader$m_sort_and_filter.srm
 $PBExportComments$Menu to control lots of datawindow functions
 forward
 global type m_sort_and_filter from menu

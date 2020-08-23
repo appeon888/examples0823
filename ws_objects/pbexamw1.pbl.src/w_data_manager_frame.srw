@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_data_manager_frame.srw
+HA$PBExportHeader$w_data_manager_frame.srw
 $PBExportComments$Data Manager Frame
 forward
 global type w_data_manager_frame from w_center

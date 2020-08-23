@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_rte_mail_merge.srd
+HA$PBExportHeader$d_rte_mail_merge.srd
 $PBExportComments$RTE style DataWindow for Mail Merge example
 release 11;
 datawindow(units=2 timer_interval=0 color=1073741824 processing=7 print.printername ="" print.documentname="" print.orientation = 0 print.margin.left = 250 print.margin.right = 250 print.margin.top = 250 print.margin.bottom = 250 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.cliptext=no print.overrideprintjob=no print.collate=yes print.preview.outline=yes richtext.headerfooter=yes richtext.wordwrap=yes richtext.popmenu=yes richtext.pictureframe=no richtext.inputfieldnamesvisible=no richtext.inputfieldsvisible=yes richtext.tabsvisible=no richtext.returnsvisible=no richtext.spacesvisible=no richtext.inputfieldbackcolor=16777215 richtext.backcolor=16777215 richtext.tabbar=yes richtext.rulerbar=yes richtext.toolbar=yes richtext.displayonly=no )

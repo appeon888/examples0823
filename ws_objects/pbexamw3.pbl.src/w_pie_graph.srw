@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_pie_graph.srw
+HA$PBExportHeader$w_pie_graph.srw
 $PBExportComments$Will retrieve data into a DataWindow that contains an enhanched PieGraph. The graph can be rotated in a presentation style.
 forward
 global type w_pie_graph from w_center

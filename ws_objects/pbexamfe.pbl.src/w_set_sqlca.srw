@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_set_sqlca.srw
+HA$PBExportHeader$w_set_sqlca.srw
 $PBExportComments$Change to new sample database
 forward
 global type w_set_sqlca from w_center

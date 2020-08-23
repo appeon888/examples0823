@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_save_toolbar_profile.srf
+HA$PBExportHeader$f_save_toolbar_profile.srf
 $PBExportComments$Save toolbar preferences to the registry or the example.ini file
 global type f_save_toolbar_profile from function_object
 end type

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_scroll_2_datawindows.srw
+HA$PBExportHeader$w_scroll_2_datawindows.srw
 $PBExportComments$Simultaneous scrolling of 2 DWs
 forward
 global type w_scroll_2_datawindows from w_center

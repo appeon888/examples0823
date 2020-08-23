@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_queries.srm
+HA$PBExportHeader$m_queries.srm
 $PBExportComments$Menu for descendant sheets in Assorted Queries example.
 forward
 global type m_queries from m_frame_queries

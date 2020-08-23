@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dir_tree.srw
+HA$PBExportHeader$w_dir_tree.srw
 $PBExportComments$Directory Tree example showing use of recursion and TreeView control
 forward
 global type w_dir_tree from w_center

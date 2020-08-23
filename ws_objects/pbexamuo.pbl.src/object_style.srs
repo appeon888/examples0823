@@ -1,4 +1,4 @@
-﻿$PBExportHeader$object_style.srs
+HA$PBExportHeader$object_style.srs
 $PBExportComments$Fields for the controls in U_STYLE_BAR
 global type object_style from structure
     string text

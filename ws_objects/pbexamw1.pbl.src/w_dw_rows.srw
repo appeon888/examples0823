@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_rows.srw
+HA$PBExportHeader$w_dw_rows.srw
 $PBExportComments$dwRowsMove, dwRowsCopy, and dwRowsDiscard example.
 forward
 global type w_dw_rows from w_center

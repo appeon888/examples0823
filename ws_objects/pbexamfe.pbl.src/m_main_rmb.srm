@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_main_rmb.srm
+HA$PBExportHeader$m_main_rmb.srm
 $PBExportComments$RMB popup menu
 forward
 global type m_main_rmb from menu

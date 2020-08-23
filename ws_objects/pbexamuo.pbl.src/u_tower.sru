@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_tower.sru
+HA$PBExportHeader$u_tower.sru
 $PBExportComments$This is the "peg" used in w_tower_hanoi -- the tower of hanoi example
 forward
 global type u_tower from UserObject

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_items.srw
+HA$PBExportHeader$w_dw_items.srw
 $PBExportComments$Demonstrates use of item vs text in a datawindow; use of accept text as well as itemchanged event
 forward
 global type w_dw_items from w_center

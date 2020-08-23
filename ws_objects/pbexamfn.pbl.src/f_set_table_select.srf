@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_set_table_select.srf
+HA$PBExportHeader$f_set_table_select.srf
 $PBExportComments$Return SELECT statement for retrieving table names from system catalog
 global type f_set_table_select from function_object
 end type

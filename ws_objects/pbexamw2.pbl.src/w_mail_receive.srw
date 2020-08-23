@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mail_receive.srw
+HA$PBExportHeader$w_mail_receive.srw
 $PBExportComments$Window that looks at MSMail inbox and allows viewing Mail.
 forward
 global type w_mail_receive from w_center

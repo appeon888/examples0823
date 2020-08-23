@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_ddcal.sru
+HA$PBExportHeader$u_ddcal.sru
 $PBExportComments$Drop down calander user object
 forward
 global type u_ddcal from UserObject

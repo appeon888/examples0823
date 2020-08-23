@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_script.srm
+HA$PBExportHeader$m_script.srm
 $PBExportComments$Menu for Script Display
 forward
 global type m_script from menu

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_data_explorer.srm
+HA$PBExportHeader$m_data_explorer.srm
 $PBExportComments$Menu for the Data Explorer
 forward
 global type m_data_explorer from menu

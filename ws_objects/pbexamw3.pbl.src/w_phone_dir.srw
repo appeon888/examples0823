@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_phone_dir.srw
+HA$PBExportHeader$w_phone_dir.srw
 $PBExportComments$Phone directory tab control example
 forward
 global type w_phone_dir from w_center

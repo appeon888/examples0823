@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_computed_reference.srw
+HA$PBExportHeader$w_computed_reference.srw
 $PBExportComments$Contains a DataWindow with computed fields that reference other computed fields.
 forward
 global type w_computed_reference from w_center

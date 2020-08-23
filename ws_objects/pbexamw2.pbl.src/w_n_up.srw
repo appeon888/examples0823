@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_n_up.srw
+HA$PBExportHeader$w_n_up.srw
 $PBExportComments$Window that shows a DataWindow with 2 rows up per row displayed.
 forward
 global type w_n_up from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_dynamic_series.srw
+HA$PBExportHeader$w_graph_dynamic_series.srw
 $PBExportComments$Example showing dynamically adding a series to a graph
 forward
 global type w_graph_dynamic_series from w_center

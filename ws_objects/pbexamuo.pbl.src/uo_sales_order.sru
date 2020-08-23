@@ -1,4 +1,4 @@
-﻿$PBExportHeader$uo_sales_order.sru
+HA$PBExportHeader$uo_sales_order.sru
 $PBExportComments$Distributed PB example User object used by client and server (remote object)
 forward
 global type uo_sales_order from nvo_database

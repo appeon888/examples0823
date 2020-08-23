@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sheet_1_cust.srw
+HA$PBExportHeader$w_sheet_1_cust.srw
 $PBExportComments$Descendant Sheet with D_CUST DataWindow
 forward
 global type w_sheet_1_cust from w_sheet_1_dw

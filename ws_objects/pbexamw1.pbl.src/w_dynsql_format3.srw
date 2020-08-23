@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dynsql_format3.srw
+HA$PBExportHeader$w_dynsql_format3.srw
 $PBExportComments$Dynamic SQL Format 3 Example
 forward
 global type w_dynsql_format3 from w_center

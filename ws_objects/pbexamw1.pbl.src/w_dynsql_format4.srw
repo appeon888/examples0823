@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dynsql_format4.srw
+HA$PBExportHeader$w_dynsql_format4.srw
 $PBExportComments$Example of dynamic SQL: format 4
 forward
 global type w_dynsql_format4 from w_center

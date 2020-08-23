@@ -1,4 +1,4 @@
-﻿$PBExportHeader$ro_sales_order.srx
+HA$PBExportHeader$ro_sales_order.srx
 $PBExportComments$Distributed PB example Remote proxy object.
 global type ro_sales_order from NonVisualObject
    private string ProxyName = "uo_sales_order"

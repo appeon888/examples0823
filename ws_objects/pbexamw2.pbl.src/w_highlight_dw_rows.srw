@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_highlight_dw_rows.srw
+HA$PBExportHeader$w_highlight_dw_rows.srw
 $PBExportComments$How to highlight DataWindow rows depending on the combination of Mouse click and the shift or control key being pressed.
 forward
 global type w_highlight_dw_rows from w_center

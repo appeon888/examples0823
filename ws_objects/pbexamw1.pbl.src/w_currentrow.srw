@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_currentrow.srw
+HA$PBExportHeader$w_currentrow.srw
 $PBExportComments$Example using the CurrentRow() function to update a customer
 forward
 global type w_currentrow from w_center

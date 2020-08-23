@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_get_toolbar_profile.srf
+HA$PBExportHeader$f_get_toolbar_profile.srf
 $PBExportComments$Read in toolbar preferences from the registry or the example.ini file
 global type f_get_toolbar_profile from function_object
 end type

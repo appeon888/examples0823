@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_color.srw
+HA$PBExportHeader$w_graph_color.srw
 $PBExportComments$General response window for modifying the graph colors
 forward
 global type w_graph_color from w_center

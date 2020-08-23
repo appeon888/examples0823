@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_spacing.srw
+HA$PBExportHeader$w_graph_spacing.srw
 $PBExportComments$General response window to set graph spacing.
 forward
 global type w_graph_spacing from w_center

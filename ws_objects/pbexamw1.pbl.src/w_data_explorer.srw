@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_data_explorer.srw
+HA$PBExportHeader$w_data_explorer.srw
 $PBExportComments$Data Explorer (TreeView and ListView)
 forward
 global type w_data_explorer from w_center

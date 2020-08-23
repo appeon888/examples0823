@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_get_token.srf
+HA$PBExportHeader$f_get_token.srf
 $PBExportComments$Parse string to return first token & remove it from the string
 global type f_get_token from function_object
 end type

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_employee.srw
+HA$PBExportHeader$w_employee.srw
 $PBExportComments$Uses the employee business object.
 forward
 global type w_employee from w_ancestor_one_dw

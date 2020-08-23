@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_date_frame.srw
+HA$PBExportHeader$w_date_frame.srw
 $PBExportComments$MDI Frame for Year 2000 example
 forward
 global type w_date_frame from w_center

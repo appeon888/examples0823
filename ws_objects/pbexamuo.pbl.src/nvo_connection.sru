@@ -1,4 +1,4 @@
-﻿$PBExportHeader$nvo_connection.sru
+HA$PBExportHeader$nvo_connection.sru
 $PBExportComments$Distributed PB example Connection user object used to connect to server.
 forward
 global type nvo_connection from connection

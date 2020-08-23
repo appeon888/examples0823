@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_quick_select.srw
+HA$PBExportHeader$w_quick_select.srw
 $PBExportComments$Quick Select Response dialog, illustrates Query Sort
 forward
 global type w_quick_select from w_center

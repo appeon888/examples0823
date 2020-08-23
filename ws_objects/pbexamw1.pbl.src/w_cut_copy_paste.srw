@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_cut_copy_paste.srw
+HA$PBExportHeader$w_cut_copy_paste.srw
 $PBExportComments$Cut, copy, and paste example using metaclass calls
 forward
 global type w_cut_copy_paste from w_center

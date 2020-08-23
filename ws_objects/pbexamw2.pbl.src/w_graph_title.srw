@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_title.srw
+HA$PBExportHeader$w_graph_title.srw
 $PBExportComments$General response window to modify a graph title
 forward
 global type w_graph_title from w_center

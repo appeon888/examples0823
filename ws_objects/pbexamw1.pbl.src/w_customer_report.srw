@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_customer_report.srw
+HA$PBExportHeader$w_customer_report.srw
 $PBExportComments$Shows nested report with retrieve arguments
 forward
 global type w_customer_report from w_center

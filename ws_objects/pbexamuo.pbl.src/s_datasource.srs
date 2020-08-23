@@ -1,4 +1,4 @@
-﻿$PBExportHeader$s_datasource.srs
+HA$PBExportHeader$s_datasource.srs
 $PBExportComments$Distributed PB example Structure used to hold report data
 global type s_datasource from structure
 	string		s_datasource

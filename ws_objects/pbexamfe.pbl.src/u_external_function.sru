@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_external_function.sru
+HA$PBExportHeader$u_external_function.sru
 $PBExportComments$Cross platform user object ancestor
 forward
 global type u_external_function from nonvisualobject
@@ -141,7 +141,7 @@ public function integer uf_parsepath (string as_path, ref string as_drive, ref s
 //								passed in, the extension will not be parsed out of the file.
 //
 //	Returns:			integer
-//						1 if it succeeds and -1 if an error occurs.
+//						1 if it succeeds and$$HEX1$$a000$$ENDHEX$$-1 if an error occurs.
 //
 //	Description:	Parse a fully-qualified directory path into its component parts.
 //
@@ -233,7 +233,7 @@ public function integer uf_parsepath (string as_path, ref string as_drive, ref s
 //	as_FileName		The name of the file, passed by reference.
 //
 //	Returns:			Integer
-//						1 if it succeeds and -1 if an error occurs.
+//						1 if it succeeds and$$HEX1$$a000$$ENDHEX$$-1 if an error occurs.
 //
 //	Description:	Parse a fully-qualified directory path into its component parts.
 //

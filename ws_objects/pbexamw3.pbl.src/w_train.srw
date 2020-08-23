@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_train.srw
+HA$PBExportHeader$w_train.srw
 $PBExportComments$Graphic train chugging along; shows use of animation
 forward
 global type w_train from w_center

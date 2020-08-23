@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dynamic_uo_open_uo_frame.srw
+HA$PBExportHeader$w_dynamic_uo_open_uo_frame.srw
 $PBExportComments$MDI Frame window. Used in the Dynamic User Object Example
 forward
 global type w_dynamic_uo_open_uo_frame from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_pipeline_blob.srw
+HA$PBExportHeader$w_pipeline_blob.srw
 $PBExportComments$Data pipeline example using a blob
 forward
 global type w_pipeline_blob from w_center

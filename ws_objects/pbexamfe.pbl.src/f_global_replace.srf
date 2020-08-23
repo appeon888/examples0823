@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_global_replace.srf
+HA$PBExportHeader$f_global_replace.srf
 $PBExportComments$Performs a search and replace on all occurences within a string
 global type f_global_replace from function_object
 end type

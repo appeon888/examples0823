@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_style_bar.sru
+HA$PBExportHeader$u_style_bar.sru
 $PBExportComments$Ribbon bar with text, border, fonts, type styles, justifications
 forward
 global type u_style_bar from UserObject

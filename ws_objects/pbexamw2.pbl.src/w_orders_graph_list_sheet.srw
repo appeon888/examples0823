@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_orders_graph_list_sheet.srw
+HA$PBExportHeader$w_orders_graph_list_sheet.srw
 $PBExportComments$Allows adhoc graphs of orders by month
 forward
 global type w_orders_graph_list_sheet from w_graph_sheet_with_list

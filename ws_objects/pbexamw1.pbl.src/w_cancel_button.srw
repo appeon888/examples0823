@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_cancel_button.srw
+HA$PBExportHeader$w_cancel_button.srw
 $PBExportComments$Cancel Button for w_cancel_retrieval
 forward
 global type w_cancel_button from w_center

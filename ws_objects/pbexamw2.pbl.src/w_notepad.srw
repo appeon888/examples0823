@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_notepad.srw
+HA$PBExportHeader$w_notepad.srw
 $PBExportComments$Main notepad window
 forward
 global type w_notepad from w_center

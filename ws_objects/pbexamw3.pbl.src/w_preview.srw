@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_preview.srw
+HA$PBExportHeader$w_preview.srw
 $PBExportComments$Print preview window used by the Distributed PB example
 forward
 global type w_preview from w_center
@@ -192,7 +192,7 @@ Alignment Alignment=Center!
 BorderStyle BorderStyle=StyleRaised!
 string Mask="#####"
 boolean AutoSkip=true
-string DisplayData="Ä"
+string DisplayData="$$HEX1$$c400$$ENDHEX$$"
 boolean DisplayOnly=true
 long TextColor=33554432
 int TextSize=-8

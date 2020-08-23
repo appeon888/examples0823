@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dutch.srw
+HA$PBExportHeader$w_dutch.srw
 $PBExportComments$Inheritance:  Dutch descendant
 forward
 global type w_dutch from w_ancestor

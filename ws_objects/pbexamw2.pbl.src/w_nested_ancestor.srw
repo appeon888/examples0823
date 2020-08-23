@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_nested_ancestor.srw
+HA$PBExportHeader$w_nested_ancestor.srw
 $PBExportComments$Ancestor sheet for Nested Reports example.
 forward
 global type w_nested_ancestor from w_center

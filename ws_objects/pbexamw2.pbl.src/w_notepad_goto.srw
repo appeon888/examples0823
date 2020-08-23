@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_notepad_goto.srw
+HA$PBExportHeader$w_notepad_goto.srw
 $PBExportComments$Prompts for line number to go to; Used in notepad
 forward
 global type w_notepad_goto from w_center

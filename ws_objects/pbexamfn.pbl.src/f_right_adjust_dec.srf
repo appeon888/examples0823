@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_right_adjust_dec.srf
+HA$PBExportHeader$f_right_adjust_dec.srf
 $PBExportComments$User Function to right adjust a number, based on a passed format; useful in aligning numbers on a printed report
 global type f_right_adjust_dec from function_object
 end type

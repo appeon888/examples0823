@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_nested_composite.srw
+HA$PBExportHeader$w_nested_composite.srw
 $PBExportComments$Composite report sheet for Nested Reports example.
 forward
 global type w_nested_composite from w_nested_ancestor

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_type.srw
+HA$PBExportHeader$w_graph_type.srw
 $PBExportComments$General response window to modify a graph type
 forward
 global type w_graph_type from w_center

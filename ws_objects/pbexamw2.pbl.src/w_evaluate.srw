@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_evaluate.srw
+HA$PBExportHeader$w_evaluate.srw
 $PBExportComments$Uses ItemError event and dwdescribe(evaluate) to evaluate a math expression in a DataWindow field.
 forward
 global type w_evaluate from w_center

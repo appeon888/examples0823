@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_spanish.srw
+HA$PBExportHeader$w_spanish.srw
 $PBExportComments$Inheritance:  Spanish descendant
 forward
 global type w_spanish from w_ancestor

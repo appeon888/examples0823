@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_external_function_win16.sru
+HA$PBExportHeader$u_external_function_win16.sru
 $PBExportComments$Cross Platform User Object for Windows 16 bit api
 forward
 global type u_external_function_win16 from u_external_function

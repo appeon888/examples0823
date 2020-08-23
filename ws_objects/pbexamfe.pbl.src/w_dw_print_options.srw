@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_print_options.srw
+HA$PBExportHeader$w_dw_print_options.srw
 $PBExportComments$Print Options Dialog
 forward
 global type w_dw_print_options from w_center

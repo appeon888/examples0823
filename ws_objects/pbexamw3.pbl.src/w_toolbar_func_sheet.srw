@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_toolbar_func_sheet.srw
+HA$PBExportHeader$w_toolbar_func_sheet.srw
 $PBExportComments$Sheet window to test new toolbar functionality
 forward
 global type w_toolbar_func_sheet from w_center

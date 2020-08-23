@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_html.srw
+HA$PBExportHeader$w_dw_html.srw
 $PBExportComments$Example used to create an HTML table or form from a DataWindow
 forward
 global type w_dw_html from w_center

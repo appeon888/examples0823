@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_splash.srw
+HA$PBExportHeader$w_splash.srw
 $PBExportComments$Splash screen displayed on startup
 forward
 global type w_splash from w_center

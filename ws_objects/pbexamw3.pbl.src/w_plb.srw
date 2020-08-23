@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_plb.srw
+HA$PBExportHeader$w_plb.srw
 $PBExportComments$PictureListBox Picture Browser
 forward
 global type w_plb from w_center

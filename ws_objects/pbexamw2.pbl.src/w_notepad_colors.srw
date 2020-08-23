@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_notepad_colors.srw
+HA$PBExportHeader$w_notepad_colors.srw
 $PBExportComments$Allows selection of colors for text in the notepad
 forward
 global type w_notepad_colors from w_center

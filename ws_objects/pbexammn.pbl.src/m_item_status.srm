@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_item_status.srm
+HA$PBExportHeader$m_item_status.srm
 $PBExportComments$Menu used for Get/SetItemStatus Example.
 forward
 global type m_item_status from menu

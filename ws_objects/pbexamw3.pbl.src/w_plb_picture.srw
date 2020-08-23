@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_plb_picture.srw
+HA$PBExportHeader$w_plb_picture.srw
 $PBExportComments$Window to display a picture object
 forward
 global type w_plb_picture from w_center

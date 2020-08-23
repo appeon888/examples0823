@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_towers_hanoi.srw
+HA$PBExportHeader$w_towers_hanoi.srw
 $PBExportComments$Towers of Hanoi Example -- shows recursion visually
 forward
 global type w_towers_hanoi from w_center

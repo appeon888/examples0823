@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_select_from_list.srw
+HA$PBExportHeader$w_select_from_list.srw
 $PBExportComments$UO:  Find closest entry in list as user enters search string
 forward
 global type w_select_from_list from w_center

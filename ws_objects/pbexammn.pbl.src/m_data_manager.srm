@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_data_manager.srm
+HA$PBExportHeader$m_data_manager.srm
 $PBExportComments$Menu for the Data Manager
 forward
 global type m_data_manager from menu

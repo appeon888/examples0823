@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_empl_detail.srw
+HA$PBExportHeader$w_empl_detail.srw
 $PBExportComments$Shows employee detail in employee information system
 forward
 global type w_empl_detail from w_center

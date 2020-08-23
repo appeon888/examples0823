@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_menu_functions_alt.srm
+HA$PBExportHeader$m_menu_functions_alt.srm
 $PBExportComments$Alternate/second menu used for w_menu_functions (Menu Techniques example)
 forward
 global type m_menu_functions_alt from m_menu

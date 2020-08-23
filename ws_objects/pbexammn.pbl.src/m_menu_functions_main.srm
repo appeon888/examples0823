@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_menu_functions_main.srm
+HA$PBExportHeader$m_menu_functions_main.srm
 $PBExportComments$Main menu for w_menu_functions (Menu Techniques example)
 forward
 global type m_menu_functions_main from m_test

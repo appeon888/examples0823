@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_color_selection.sru
+HA$PBExportHeader$u_color_selection.sru
 $PBExportComments$Color selector, with SLEs and HScrollBars for R,G,B
 forward
 global type u_color_selection from UserObject

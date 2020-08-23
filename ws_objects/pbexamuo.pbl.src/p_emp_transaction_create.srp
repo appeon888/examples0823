@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_emp_transaction_create.srp
+HA$PBExportHeader$p_emp_transaction_create.srp
 $PBExportComments$Create employee transaction table
 PIPELINE(source_connect=PB Demo DB V2019,destination_connect=PB Demo DB V2019,type=replace,commit=100,errors=100,keyname="emp_pipe_transaction_x")
 SOURCE(name="employee",COLUMN(type=long,name="emp_id",dbtype="integer",key=yes,nulls_allowed=yes)

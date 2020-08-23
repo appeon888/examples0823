@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_quick_column_list.srd
+HA$PBExportHeader$d_quick_column_list.srd
 $PBExportComments$DataWindow used in Quick Select example, this DataWindow show the list of columns for a selected table
 release 9;
 datawindow(units=0 timer_interval=0 color=1083244543 processing=0 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 0 print.margin.right = 0 print.margin.top = 0 print.margin.bottom = 0 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

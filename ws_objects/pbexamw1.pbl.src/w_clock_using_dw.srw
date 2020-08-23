@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_clock_using_dw.srw
+HA$PBExportHeader$w_clock_using_dw.srw
 $PBExportComments$Digital Clock using datawindow computed field, now & today functions and datawindow timer.
 forward
 global type w_clock_using_dw from w_center

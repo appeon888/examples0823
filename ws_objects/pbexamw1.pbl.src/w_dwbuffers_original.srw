@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwbuffers_original.srw
+HA$PBExportHeader$w_dwbuffers_original.srw
 $PBExportComments$Sheet to display the DataWindow Original buffer
 forward
 global type w_dwbuffers_original from w_dwbuffers_ancestor

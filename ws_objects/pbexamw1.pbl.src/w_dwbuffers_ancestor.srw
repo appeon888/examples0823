@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwbuffers_ancestor.srw
+HA$PBExportHeader$w_dwbuffers_ancestor.srw
 $PBExportComments$Ancestor sheet for DataWindow buffers example
 forward
 global type w_dwbuffers_ancestor from w_center

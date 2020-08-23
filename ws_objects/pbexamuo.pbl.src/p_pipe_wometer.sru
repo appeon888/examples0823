@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_pipe_wometer.sru
+HA$PBExportHeader$p_pipe_wometer.sru
 $PBExportComments$Inherited from pipeline object. No status information available
 forward
 global type p_pipe_wometer from pipeline

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_ole_example.srw
+HA$PBExportHeader$w_ole_example.srw
 $PBExportComments$Example of an OLE 2.0 control on a window
 forward
 global type w_ole_example from w_center

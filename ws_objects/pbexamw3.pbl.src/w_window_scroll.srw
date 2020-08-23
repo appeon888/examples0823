@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_window_scroll.srw
+HA$PBExportHeader$w_window_scroll.srw
 $PBExportComments$Scroll Units Per Line and Scroll Lines Per Page example
 forward
 global type w_window_scroll from w_center

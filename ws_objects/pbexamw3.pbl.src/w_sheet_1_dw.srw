@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sheet_1_dw.srw
+HA$PBExportHeader$w_sheet_1_dw.srw
 $PBExportComments$Ancestor:  MDI Sheet with 1 DataWindow
 forward
 global type w_sheet_1_dw from w_center

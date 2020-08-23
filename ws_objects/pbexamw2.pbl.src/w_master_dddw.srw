@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_master_dddw.srw
+HA$PBExportHeader$w_master_dddw.srw
 $PBExportComments$Window containing DataWindows that can be shared as DropDownDataWindows on other windows.
 forward
 global type w_master_dddw from w_center

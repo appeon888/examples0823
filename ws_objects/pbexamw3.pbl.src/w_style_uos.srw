@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_style_uos.srw
+HA$PBExportHeader$w_style_uos.srw
 $PBExportComments$This window contains 2 User Objects, one inherited from the other. It shows extending, overriding and calling ancestor scripts.
 forward
 global type w_style_uos from w_center

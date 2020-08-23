@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_crosstab_status.srw
+HA$PBExportHeader$w_crosstab_status.srw
 $PBExportComments$Status box to show status of the crosstab loading
 forward
 global type w_crosstab_status from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_regedit.srw
+HA$PBExportHeader$w_regedit.srw
 $PBExportComments$Registry Editor
 forward
 global type w_regedit from w_center

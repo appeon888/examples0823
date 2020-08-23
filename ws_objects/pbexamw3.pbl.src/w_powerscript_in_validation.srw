@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_powerscript_in_validation.srw
+HA$PBExportHeader$w_powerscript_in_validation.srw
 $PBExportComments$DW that calls PowerScript function in a validation formula.  Also has examples of complex validation rules.
 forward
 global type w_powerscript_in_validation from w_center

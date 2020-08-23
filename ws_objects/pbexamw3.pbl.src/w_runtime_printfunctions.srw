@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_runtime_printfunctions.srw
+HA$PBExportHeader$w_runtime_printfunctions.srw
 $PBExportComments$PB 8 - New Print Functions
 forward
 global type w_runtime_printfunctions from w_center

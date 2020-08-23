@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_protected_columns.srw
+HA$PBExportHeader$w_protected_columns.srw
 $PBExportComments$Update the data in the sales order table, only allowing modifications to the region specifed.
 forward
 global type w_protected_columns from w_center

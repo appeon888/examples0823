@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwbuffers_filter.srw
+HA$PBExportHeader$w_dwbuffers_filter.srw
 $PBExportComments$Sheet to display the DataWindow Filter buffer
 forward
 global type w_dwbuffers_filter from w_dwbuffers_ancestor

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_customize_dw.srw
+HA$PBExportHeader$w_customize_dw.srw
 $PBExportComments$Window to customize a datawindow using describe/modify and direct object reference syntax
 forward
 global type w_customize_dw from w_center

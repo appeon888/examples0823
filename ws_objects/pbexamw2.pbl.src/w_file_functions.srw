@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_file_functions.srw
+HA$PBExportHeader$w_file_functions.srw
 $PBExportComments$Shows examples of how to Run other programs and check to see if other programs are running.
 forward
 global type w_file_functions from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_report.srm
+HA$PBExportHeader$m_report.srm
 $PBExportComments$Menu for Examples Report
 forward
 global type m_report from menu

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_graph.srm
+HA$PBExportHeader$m_graph.srm
 $PBExportComments$Generalized menu to be used to set graph attributes.
 forward
 global type m_graph from menu

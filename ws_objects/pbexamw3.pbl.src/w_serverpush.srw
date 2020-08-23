@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_serverpush.srw
+HA$PBExportHeader$w_serverpush.srw
 $PBExportComments$Server Push Example
 forward
 global type w_serverpush from w_dpb_launcher

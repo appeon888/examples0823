@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_button_report.srw
+HA$PBExportHeader$w_button_report.srw
 $PBExportComments$Window displaying DataWindow report using buttons
 forward
 global type w_button_report from w_center

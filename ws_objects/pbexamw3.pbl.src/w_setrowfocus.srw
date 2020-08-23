@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_setrowfocus.srw
+HA$PBExportHeader$w_setrowfocus.srw
 $PBExportComments$Demonstrates the use of the rowfocus indicator in a datawindow
 forward
 global type w_setrowfocus from w_center

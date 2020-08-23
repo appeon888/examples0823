@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_graph_sheet.srm
+HA$PBExportHeader$m_graph_sheet.srm
 $PBExportComments$Sheet menu for the graph examples
 forward
 global type m_graph_sheet from m_graph

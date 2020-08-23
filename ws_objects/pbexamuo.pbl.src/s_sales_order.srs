@@ -1,4 +1,4 @@
-﻿$PBExportHeader$s_sales_order.srs
+HA$PBExportHeader$s_sales_order.srs
 $PBExportComments$Distributed PB example Structure used to hold sales order data
 global type s_sales_order from structure
 	long		id

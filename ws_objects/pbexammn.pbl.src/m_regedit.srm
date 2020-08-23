@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_regedit.srm
+HA$PBExportHeader$m_regedit.srm
 $PBExportComments$Menu for Registry Editor example
 forward
 global type m_regedit from menu

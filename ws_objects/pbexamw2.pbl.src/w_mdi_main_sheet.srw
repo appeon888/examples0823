@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mdi_main_sheet.srw
+HA$PBExportHeader$w_mdi_main_sheet.srw
 $PBExportComments$MDI frame
 forward
 global type w_mdi_main_sheet from w_center

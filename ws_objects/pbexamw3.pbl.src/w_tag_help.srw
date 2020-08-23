@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_tag_help.srw
+HA$PBExportHeader$w_tag_help.srw
 $PBExportComments$Sheet window for Context-Sensitive MicroHelp example.
 forward
 global type w_tag_help from w_center

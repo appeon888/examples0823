@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_emp_master_create.srp
+HA$PBExportHeader$p_emp_master_create.srp
 $PBExportComments$Creates a copy of the employee table to emp_pipe_master
 PIPELINE(source_connect=PB Demo DB V2019,destination_connect=PB Demo DB V2019,type=replace,commit=100,errors=10,keyname="emp_pipe_master_x")
 SOURCE(name="employee",COLUMN(type=long,name="emp_id",dbtype="integer",key=yes,nulls_allowed=no)

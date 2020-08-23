@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_date_functions.srw
+HA$PBExportHeader$w_date_functions.srw
 $PBExportComments$Enter a day name/date combination to check if the date entered is valid for the day name entered.
 forward
 global type w_date_functions from w_center

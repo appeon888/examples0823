@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_sheet_with_list.srw
+HA$PBExportHeader$w_graph_sheet_with_list.srw
 $PBExportComments$Second level ancestor to w_graph_sheet; adds capability to select category and value from a list.
 forward
 global type w_graph_sheet_with_list from w_graph_sheet

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_labels.srw
+HA$PBExportHeader$w_labels.srw
 $PBExportComments$Mailing labels for the contact table, uses Avery 5267 format.
 forward
 global type w_labels from w_center

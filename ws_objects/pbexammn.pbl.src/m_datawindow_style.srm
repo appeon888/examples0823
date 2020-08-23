@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_datawindow_style.srm
+HA$PBExportHeader$m_datawindow_style.srm
 $PBExportComments$Menu for DataWindow style examples
 forward
 global type m_datawindow_style from menu

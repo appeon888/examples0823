@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_quick_select_sheet.srw
+HA$PBExportHeader$w_quick_select_sheet.srw
 $PBExportComments$Sheet containing newly created datawindow that was created in w_quick_select
 forward
 global type w_quick_select_sheet from w_center

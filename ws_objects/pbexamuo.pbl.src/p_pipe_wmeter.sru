@@ -1,4 +1,4 @@
-﻿$PBExportHeader$p_pipe_wmeter.sru
+HA$PBExportHeader$p_pipe_wmeter.sru
 $PBExportComments$Inherited from pipeline object. Will display status information in static text boxes
 forward
 global type p_pipe_wmeter from pipeline

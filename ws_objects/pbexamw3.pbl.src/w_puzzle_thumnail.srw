@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_puzzle_thumnail.srw
+HA$PBExportHeader$w_puzzle_thumnail.srw
 $PBExportComments$Thumnail view of the PowerPuzzle
 forward
 global type w_puzzle_thumnail from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_notepad_find.srw
+HA$PBExportHeader$w_notepad_find.srw
 $PBExportComments$Prompts for string to find; Used by notepad
 forward
 global type w_notepad_find from w_center

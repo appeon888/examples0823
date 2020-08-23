@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_item_status.srw
+HA$PBExportHeader$w_item_status.srw
 $PBExportComments$Shows the GetItemStatus and SetItemStatus functions and how they affect updates.
 forward
 global type w_item_status from w_center

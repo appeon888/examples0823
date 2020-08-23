@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_data_edit.srw
+HA$PBExportHeader$w_data_edit.srw
 $PBExportComments$Window used with the Data Explorer example to edit an item
 forward
 global type w_data_edit from w_center

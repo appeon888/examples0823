@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_french.srw
+HA$PBExportHeader$w_french.srw
 $PBExportComments$Inheritance:  French descendant
 forward
 global type w_french from w_ancestor

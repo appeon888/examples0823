@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_show_retrieve_arg.srw
+HA$PBExportHeader$w_show_retrieve_arg.srw
 $PBExportComments$Allows user to specify retrieval arguments and retrieve a DataWindow.  The DataWindow shows their retrieval arguments that they entered.
 forward
 global type w_show_retrieve_arg from w_center

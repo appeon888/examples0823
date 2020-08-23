@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_rte.srm
+HA$PBExportHeader$m_rte.srm
 $PBExportComments$RichPad menu
 forward
 global type m_rte from menu

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_example_report_sheet.srw
+HA$PBExportHeader$w_example_report_sheet.srw
 $PBExportComments$Used for Example Report
 forward
 global type w_example_report_sheet from w_center

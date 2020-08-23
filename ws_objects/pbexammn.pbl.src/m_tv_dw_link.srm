@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_tv_dw_link.srm
+HA$PBExportHeader$m_tv_dw_link.srm
 $PBExportComments$Menu for the TreeView / DataWindow linking example
 forward
 global type m_tv_dw_link from menu

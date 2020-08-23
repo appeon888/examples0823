@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_fish_config.srw
+HA$PBExportHeader$w_fish_config.srw
 $PBExportComments$Window to configure the aquarium
 forward
 global type w_fish_config from w_center

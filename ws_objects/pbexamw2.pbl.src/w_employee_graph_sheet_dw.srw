@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_employee_graph_sheet_dw.srw
+HA$PBExportHeader$w_employee_graph_sheet_dw.srw
 $PBExportComments$MDI sheet for employee total salary with graph.
 forward
 global type w_employee_graph_sheet_dw from w_graph_sheet_using_dw

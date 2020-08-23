@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_select_current_row.srf
+HA$PBExportHeader$f_select_current_row.srf
 $PBExportComments$Passing a datawindow, it will return the datawindow the current row selected.
 global type f_select_current_row from function_object
 end type

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_business_object.sru
+HA$PBExportHeader$u_business_object.sru
 $PBExportComments$Base ancestor user object for implementing business rules
 forward
 global type u_business_object from nonvisualobject

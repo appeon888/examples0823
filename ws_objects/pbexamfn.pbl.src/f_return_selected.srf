@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_return_selected.srf
+HA$PBExportHeader$f_return_selected.srf
 $PBExportComments$Returns the row numbers of the selected rows of a DataWindow.
 global type f_return_selected from function_object
 end type

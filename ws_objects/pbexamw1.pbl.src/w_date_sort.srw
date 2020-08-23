@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_date_sort.srw
+HA$PBExportHeader$w_date_sort.srw
 $PBExportComments$Window for Year 2000 sorting example
 forward
 global type w_date_sort from w_center

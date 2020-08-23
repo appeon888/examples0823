@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_size_panels.srw
+HA$PBExportHeader$w_size_panels.srw
 $PBExportComments$Example of sizing mulitple panels on a window
 forward
 global type w_size_panels from w_center

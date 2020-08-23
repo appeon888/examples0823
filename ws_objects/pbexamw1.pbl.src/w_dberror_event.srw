@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dberror_event.srw
+HA$PBExportHeader$w_dberror_event.srw
 $PBExportComments$Example which shows how to supress default dberror message, and display custom message.
 forward
 global type w_dberror_event from w_center

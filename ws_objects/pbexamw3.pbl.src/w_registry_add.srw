@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_registry_add.srw
+HA$PBExportHeader$w_registry_add.srw
 $PBExportComments$Window to add a value to the registry
 forward
 global type w_registry_add from w_center

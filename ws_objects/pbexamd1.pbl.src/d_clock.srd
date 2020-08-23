@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_clock.srd
+HA$PBExportHeader$d_clock.srd
 $PBExportComments$Clock  using datawindow refresh timer
 release 9;
 datawindow(units=0 timer_interval=1000 color=78682240 processing=0 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 1 print.margin.right = 1 print.margin.top = 1 print.margin.bottom = 1 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

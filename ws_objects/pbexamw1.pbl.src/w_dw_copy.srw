@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_copy.srw
+HA$PBExportHeader$w_dw_copy.srw
 $PBExportComments$Copy data from one DataWindow to another using an array of structures
 forward
 global type w_dw_copy from w_center

@@ -1,0 +1,25 @@
+HA$PBExportHeader$p_examples_exe1.srj
+$PBExportComments$Generated Application Executable Project
+EXE:examples.exe,,0,0,1
+CMP:0,0,0,2,0,0
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVN:1,0,0,1
+PVS:1.0.0.1
+FVN:1,0,0,1
+FVS:1.0.0.1
+PBD:pbexamfe.pbl,,0
+PBD:pbexamd1.pbl,,0
+PBD:pbexamd2.pbl,,0
+PBD:pbexamfn.pbl,,0
+PBD:pbexammn.pbl,,0
+PBD:pbexamsy.pbl,,0
+PBD:pbexamuo.pbl,,0
+PBD:pbexamw1.pbl,,0
+PBD:pbexamw2.pbl,,0
+PBD:pbexamw3.pbl,,0
+PBD:testaddpbl.pbl,,0
+
+ 

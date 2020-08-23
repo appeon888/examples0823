@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_rte.srw
+HA$PBExportHeader$w_rte.srw
 $PBExportComments$RichPad RTE control
 forward
 global type w_rte from w_center

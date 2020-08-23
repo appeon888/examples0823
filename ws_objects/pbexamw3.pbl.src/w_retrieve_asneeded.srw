@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_retrieve_asneeded.srw
+HA$PBExportHeader$w_retrieve_asneeded.srw
 $PBExportComments$Compares performance times of retrieve vs. retrieve as needed using aggregate functions.
 forward
 global type w_retrieve_asneeded from w_center

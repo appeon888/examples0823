@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_fish.srm
+HA$PBExportHeader$m_fish.srm
 $PBExportComments$Menu for fish sample
 forward
 global type m_fish from menu

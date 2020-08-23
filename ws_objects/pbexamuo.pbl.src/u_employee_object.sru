@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_employee_object.sru
+HA$PBExportHeader$u_employee_object.sru
 $PBExportComments$Employee class
 forward
 global type u_employee_object from u_business_object

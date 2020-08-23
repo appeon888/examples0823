@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_eis_emp.srw
+HA$PBExportHeader$w_eis_emp.srw
 $PBExportComments$Lists employees in department for employee information system
 forward
 global type w_eis_emp from w_center

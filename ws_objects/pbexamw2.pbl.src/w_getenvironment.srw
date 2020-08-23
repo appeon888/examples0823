@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_getenvironment.srw
+HA$PBExportHeader$w_getenvironment.srw
 $PBExportComments$Demonstrates the use of the getenvironment function
 forward
 global type w_getenvironment from w_center

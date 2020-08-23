@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_closest_date.srf
+HA$PBExportHeader$f_closest_date.srf
 $PBExportComments$Returns the date that is closest to the date that is passed to this function AND that has the same day name as the day name passed to this function.
 global type f_closest_date from function_object
 end type

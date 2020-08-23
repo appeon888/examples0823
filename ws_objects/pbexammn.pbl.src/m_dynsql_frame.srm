@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_dynsql_frame.srm
+HA$PBExportHeader$m_dynsql_frame.srm
 $PBExportComments$MDI Frame menu for Dynamic SQL example
 forward
 global type m_dynsql_frame from menu

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_ancestor_one_dw.srw
+HA$PBExportHeader$w_ancestor_one_dw.srw
 $PBExportComments$Ancestor window with one DataWindow control.  Operations for retrieval, updating, deleting, inserting the DataWindow.
 forward
 global type w_ancestor_one_dw from w_center

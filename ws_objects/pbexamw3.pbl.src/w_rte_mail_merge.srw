@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_rte_mail_merge.srw
+HA$PBExportHeader$w_rte_mail_merge.srw
 $PBExportComments$Mail merge form letter using RTE style DataWindow
 forward
 global type w_rte_mail_merge from w_center

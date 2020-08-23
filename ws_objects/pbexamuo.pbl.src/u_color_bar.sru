@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_color_bar.sru
+HA$PBExportHeader$u_color_bar.sru
 $PBExportComments$Color palette
 forward
 global type u_color_bar from UserObject

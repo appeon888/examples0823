@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_date_frame.srm
+HA$PBExportHeader$m_date_frame.srm
 $PBExportComments$MDI Frame menu for Year 2000 example
 forward
 global type m_date_frame from m_date_ancestor

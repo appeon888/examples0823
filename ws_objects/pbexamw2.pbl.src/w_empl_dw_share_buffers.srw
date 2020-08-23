@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_empl_dw_share_buffers.srw
+HA$PBExportHeader$w_empl_dw_share_buffers.srw
 $PBExportComments$Three DWs sharing one set of buffers
 forward
 global type w_empl_dw_share_buffers from w_center

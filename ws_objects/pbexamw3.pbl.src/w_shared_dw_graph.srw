@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_shared_dw_graph.srw
+HA$PBExportHeader$w_shared_dw_graph.srw
 $PBExportComments$Shared DW/Diff Graph Views
 forward
 global type w_shared_dw_graph from w_center

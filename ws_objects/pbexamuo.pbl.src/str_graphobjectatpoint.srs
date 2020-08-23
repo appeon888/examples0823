@@ -1,4 +1,4 @@
-﻿$PBExportHeader$str_graphobjectatpoint.srs
+HA$PBExportHeader$str_graphobjectatpoint.srs
 $PBExportComments$Structure used in passing paramters about where the pointer is currently located
 global type str_graphobjectatpoint from structure
     graphicobject graphicobject

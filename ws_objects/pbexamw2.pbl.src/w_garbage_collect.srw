@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_garbage_collect.srw
+HA$PBExportHeader$w_garbage_collect.srw
 $PBExportComments$Garbage Collection example window
 forward
 global type w_garbage_collect from w_center

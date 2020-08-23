@@ -1,0 +1,12 @@
+﻿$PBExportHeader$f_test3.srf
+global type f_test3 from function_object
+end type
+
+forward prototypes
+global function integer f_test3 (integer ai_input)
+end prototypes
+
+global function integer f_test3 (integer ai_input);Messagebox ("📌","test")
+return 3
+end function
+

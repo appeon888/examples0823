@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_mdi_first_next.srm
+HA$PBExportHeader$m_mdi_first_next.srm
 $PBExportComments$Shows usage of getfirstsheet and getnextsheet functions.
 forward
 global type m_mdi_first_next from menu

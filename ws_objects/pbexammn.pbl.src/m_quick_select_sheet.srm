@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_quick_select_sheet.srm
+HA$PBExportHeader$m_quick_select_sheet.srm
 $PBExportComments$Sheet used to hold the DataWindow that is created dynamically
 forward
 global type m_quick_select_sheet from m_quick_select

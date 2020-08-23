@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_mail_error_to_string.srf
+HA$PBExportHeader$f_mail_error_to_string.srf
 $PBExportComments$Convert Mail Return Code (enumerated) to a string
 global type f_mail_error_to_string from function_object
 end type

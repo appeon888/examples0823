@@ -1,4 +1,4 @@
-﻿$PBExportHeader$s_product.srs
+HA$PBExportHeader$s_product.srs
 $PBExportComments$Distributed PB example Structure used to hold product data
 global type s_product from structure
 	int		id

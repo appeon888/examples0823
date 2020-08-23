@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_stored_proc.srw
+HA$PBExportHeader$w_stored_proc.srw
 $PBExportComments$Stored Procedure source DataWindows example
 forward
 global type w_stored_proc from w_center

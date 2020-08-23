@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_frame_menu_functions.srw
+HA$PBExportHeader$w_frame_menu_functions.srw
 $PBExportComments$Frame window for w_menu_functions (Menu Techniques example)
 forward
 global type w_frame_menu_functions from w_center

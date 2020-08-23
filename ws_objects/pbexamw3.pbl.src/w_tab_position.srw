@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_tab_position.srw
+HA$PBExportHeader$w_tab_position.srw
 $PBExportComments$Response window to change tab position - used by phone dir example
 forward
 global type w_tab_position from w_center

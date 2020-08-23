@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_save_quick_select.srw
+HA$PBExportHeader$w_save_quick_select.srw
 $PBExportComments$Response Dialog that is used to save Quick Selected DataWindow, Prompts for Library name, DataWindow name and comments to be applied to the Entry.
 forward
 global type w_save_quick_select from w_center

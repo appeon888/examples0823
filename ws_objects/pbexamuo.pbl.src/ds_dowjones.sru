@@ -1,4 +1,4 @@
-﻿$PBExportHeader$ds_dowjones.sru
+HA$PBExportHeader$ds_dowjones.sru
 $PBExportComments$Datastore for Dow Jones data.
 forward
 global type ds_dowjones from datastore

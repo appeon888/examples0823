@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_zoom.srw
+HA$PBExportHeader$w_zoom.srw
 $PBExportComments$Print Zoom Dialog
 forward
 global type w_zoom from w_center

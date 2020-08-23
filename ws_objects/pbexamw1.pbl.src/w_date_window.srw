@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_date_window.srw
+HA$PBExportHeader$w_date_window.srw
 $PBExportComments$Window for Year 2000 window example
 forward
 global type w_date_window from w_center

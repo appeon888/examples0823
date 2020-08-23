@@ -1,4 +1,4 @@
-﻿$PBExportHeader$nvo_database.sru
+HA$PBExportHeader$nvo_database.sru
 $PBExportComments$Distributed PB example Non visual Database object
 forward
 global type nvo_database from nonvisualobject

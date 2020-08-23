@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_entry_only.srw
+HA$PBExportHeader$w_entry_only.srw
 $PBExportComments$A sales order entry window that allows rows to be inserted into the DataWindow but not modified.
 forward
 global type w_entry_only from w_center

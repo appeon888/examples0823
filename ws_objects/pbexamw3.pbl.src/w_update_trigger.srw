@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_update_trigger.srw
+HA$PBExportHeader$w_update_trigger.srw
 $PBExportComments$Demonstrates a trigger defined to update the employee table when the department table changes.
 forward
 global type w_update_trigger from w_center

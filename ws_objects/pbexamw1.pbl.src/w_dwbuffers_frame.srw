@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwbuffers_frame.srw
+HA$PBExportHeader$w_dwbuffers_frame.srw
 $PBExportComments$MDI Frame for DataWindow buffers example
 forward
 global type w_dwbuffers_frame from w_center

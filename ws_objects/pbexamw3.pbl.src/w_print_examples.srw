@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_print_examples.srw
+HA$PBExportHeader$w_print_examples.srw
 $PBExportComments$Show use of the print object and print screen functions.
 forward
 global type w_print_examples from w_center

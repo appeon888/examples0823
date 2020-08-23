@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_rte_replace.srw
+HA$PBExportHeader$w_rte_replace.srw
 $PBExportComments$Replace Dialog for RTE Example
 forward
 global type w_rte_replace from w_center

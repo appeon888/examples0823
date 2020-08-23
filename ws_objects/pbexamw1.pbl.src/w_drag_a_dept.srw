@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_drag_a_dept.srw
+HA$PBExportHeader$w_drag_a_dept.srw
 $PBExportComments$MDI Sheet:  List of department names
 forward
 global type w_drag_a_dept from w_center

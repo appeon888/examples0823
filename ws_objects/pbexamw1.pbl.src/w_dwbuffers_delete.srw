@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwbuffers_delete.srw
+HA$PBExportHeader$w_dwbuffers_delete.srw
 $PBExportComments$Sheet to display the DataWindow Delete buffer
 forward
 global type w_dwbuffers_delete from w_dwbuffers_ancestor

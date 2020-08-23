@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sdk_functions.srw
+HA$PBExportHeader$w_sdk_functions.srw
 $PBExportComments$Calls SDK functions as PB external functions
 forward
 global type w_sdk_functions from w_center

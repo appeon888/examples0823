@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_uo_sampler.srw
+HA$PBExportHeader$w_uo_sampler.srw
 $PBExportComments$Contains user objects for checking input, date scroller, and a progress indicator.
 forward
 global type w_uo_sampler from w_center

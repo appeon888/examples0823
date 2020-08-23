@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_menu_functions.srw
+HA$PBExportHeader$w_menu_functions.srw
 $PBExportComments$MenuItem Attributes example
 forward
 global type w_menu_functions from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mdi_first_next_sheet.srw
+HA$PBExportHeader$w_mdi_first_next_sheet.srw
 $PBExportComments$Sheet for m_mdi_first_next menu
 forward
 global type w_mdi_first_next_sheet from w_center

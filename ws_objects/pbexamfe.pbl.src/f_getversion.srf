@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_getversion.srf
+HA$PBExportHeader$f_getversion.srf
 $PBExportComments$Get the version of PowerBuilder
 global type f_getversion from function_object
 end type

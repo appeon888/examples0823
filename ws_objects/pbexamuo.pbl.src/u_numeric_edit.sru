@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_numeric_edit.sru
+HA$PBExportHeader$u_numeric_edit.sru
 $PBExportComments$Single line edit which only accepts numeric input
 forward
 global type u_numeric_edit from UserObject

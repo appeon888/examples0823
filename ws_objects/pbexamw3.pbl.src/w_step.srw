@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_step.srw
+HA$PBExportHeader$w_step.srw
 $PBExportComments$Response window used to step through a process.  Input:  title, "@", description.  Output:  1 for proceed, 0 for cancel.
 forward
 global type w_step from w_center

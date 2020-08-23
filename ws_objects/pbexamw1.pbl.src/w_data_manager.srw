@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_data_manager.srw
+HA$PBExportHeader$w_data_manager.srw
 $PBExportComments$Data Manager (Program Manager-style ListViews)
 forward
 global type w_data_manager from w_center

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mail_send.srw
+HA$PBExportHeader$w_mail_send.srw
 $PBExportComments$Window used to send MSMail
 forward
 global type w_mail_send from w_center

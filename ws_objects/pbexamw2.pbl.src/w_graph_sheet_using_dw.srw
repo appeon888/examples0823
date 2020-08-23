@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_sheet_using_dw.srw
+HA$PBExportHeader$w_graph_sheet_using_dw.srw
 $PBExportComments$Generalized maintenance ancestor for graph in a datawindow
 forward
 global type w_graph_sheet_using_dw from w_center

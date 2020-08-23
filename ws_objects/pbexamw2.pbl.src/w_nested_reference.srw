@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_nested_reference.srw
+HA$PBExportHeader$w_nested_reference.srw
 $PBExportComments$Example showing direct reference of a nested report
 forward
 global type w_nested_reference from w_center

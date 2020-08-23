@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_overtype_edit.sru
+HA$PBExportHeader$u_overtype_edit.sru
 $PBExportComments$Single line edit which allows characters to be entered in overtype mode (default for sle is to insert characters)
 forward
 global type u_overtype_edit from singlelineedit

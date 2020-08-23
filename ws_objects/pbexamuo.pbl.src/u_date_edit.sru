@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_date_edit.sru
+HA$PBExportHeader$u_date_edit.sru
 $PBExportComments$Edit mask which checks for a valid Friday
 forward
 global type u_date_edit from UserObject

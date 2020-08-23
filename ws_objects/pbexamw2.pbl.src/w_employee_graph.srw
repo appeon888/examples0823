@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_employee_graph.srw
+HA$PBExportHeader$w_employee_graph.srw
 $PBExportComments$Window to show the datawindow of employee salaries and graph them in a graph object
 forward
 global type w_employee_graph from w_graph_sheet

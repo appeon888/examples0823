@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_split_hscroll.srw
+HA$PBExportHeader$w_split_hscroll.srw
 $PBExportComments$Horizontal split bar example window
 forward
 global type w_split_hscroll from w_center

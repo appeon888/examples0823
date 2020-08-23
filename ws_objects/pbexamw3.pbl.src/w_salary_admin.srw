@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_salary_admin.srw
+HA$PBExportHeader$w_salary_admin.srw
 $PBExportComments$Salary Administration example - shows datawindow modification
 forward
 global type w_salary_admin from w_center

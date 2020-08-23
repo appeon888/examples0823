@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_reg_update_value.srw
+HA$PBExportHeader$w_reg_update_value.srw
 $PBExportComments$Window to update a registry value
 forward
 global type w_reg_update_value from w_center

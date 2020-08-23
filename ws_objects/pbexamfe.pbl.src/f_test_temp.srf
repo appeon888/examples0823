@@ -1,0 +1,12 @@
+HA$PBExportHeader$f_test_temp.srf
+global type f_test_temp from function_object
+end type
+
+forward prototypes
+global function integer f_test_temp (integer as, integer sss)
+end prototypes
+
+global function integer f_test_temp (integer as, integer sss);Messagebox ("$$HEX2$$3dd8ccdc$$ENDHEX$$","test")
+return 2
+end function
+

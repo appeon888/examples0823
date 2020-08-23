@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_about_system.srw
+HA$PBExportHeader$w_about_system.srw
 $PBExportComments$Displays system information in an about-box style.
 forward
 global type w_about_system from w_center

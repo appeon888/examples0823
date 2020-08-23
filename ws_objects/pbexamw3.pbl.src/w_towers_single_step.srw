@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_towers_single_step.srw
+HA$PBExportHeader$w_towers_single_step.srw
 $PBExportComments$Tower of Hanoi Wait Box
 forward
 global type w_towers_single_step from w_center

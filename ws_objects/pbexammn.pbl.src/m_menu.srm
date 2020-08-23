@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_menu.srm
+HA$PBExportHeader$m_menu.srm
 $PBExportComments$Generic menu for PB examples
 forward
 global type m_menu from menu

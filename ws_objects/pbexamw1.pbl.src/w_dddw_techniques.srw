@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dddw_techniques.srw
+HA$PBExportHeader$w_dddw_techniques.srw
 $PBExportComments$DropDownDataWindow techniques example
 forward
 global type w_dddw_techniques from w_center

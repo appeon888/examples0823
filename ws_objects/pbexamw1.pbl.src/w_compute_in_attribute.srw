@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_compute_in_attribute.srw
+HA$PBExportHeader$w_compute_in_attribute.srw
 $PBExportComments$Min and max salaries by department are different text colors using attribute expressions that reference computed fields.
 forward
 global type w_compute_in_attribute from w_center

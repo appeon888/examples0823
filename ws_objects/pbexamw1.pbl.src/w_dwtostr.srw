@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwtostr.srw
+HA$PBExportHeader$w_dwtostr.srw
 $PBExportComments$DataWindow to Structure Utility example
 forward
 global type w_dwtostr from w_center

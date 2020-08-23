@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_crosstab.srw
+HA$PBExportHeader$w_crosstab.srw
 $PBExportComments$Enhanced crosstab tab window.
 forward
 global type w_crosstab from w_center

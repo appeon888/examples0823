@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_nested_related.srw
+HA$PBExportHeader$w_nested_related.srw
 $PBExportComments$Related nested report sheet for Nested Reports example.
 forward
 global type w_nested_related from w_nested_ancestor

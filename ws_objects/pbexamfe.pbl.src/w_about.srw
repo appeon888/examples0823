@@ -1,7 +1,9 @@
-﻿$PBExportHeader$w_about.srw
+HA$PBExportHeader$w_about.srw
 $PBExportComments$About box for examples
 forward
 global type w_about from w_center
+end type
+type st_4 from statictext within w_about
 end type
 type phl_logo from picturehyperlink within w_about
 end type
@@ -28,10 +30,16 @@ integer x = 731
 integer y = 940
 integer width = 1399
 integer height = 932
+boolean titlebar = false
 string title = "About"
+boolean controlmenu = false
+boolean minbox = false
+boolean maxbox = false
+boolean resizable = false
 windowtype windowtype = response!
 long backcolor = 79416533
 toolbaralignment toolbaralignment = alignatleft!
+st_4 st_4
 phl_logo phl_logo
 st_exver st_exver
 st_os st_os
@@ -64,13 +72,14 @@ st_os.Text = "Windows " + String(ge_Environment.OSMajorRevision) + &
 	
 int li_year
 li_year = Year ( Today() )
-st_3.text = "© " + String (li_year, "####" ) + " Appeon.  All rights reserved."
+st_3.text = "$$HEX2$$a9002000$$ENDHEX$$" + String (li_year, "####" ) + " Appeon.  All rights reserved."
 
 end event
 
 on w_about.create
 int iCurrent
 call super::create
+this.st_4=create st_4
 this.phl_logo=create phl_logo
 this.st_exver=create st_exver
 this.st_os=create st_os
@@ -81,19 +90,21 @@ this.st_version=create st_version
 this.st_1=create st_1
 this.st_2=create st_2
 iCurrent=UpperBound(this.Control)
-this.Control[iCurrent+1]=this.phl_logo
-this.Control[iCurrent+2]=this.st_exver
-this.Control[iCurrent+3]=this.st_os
-this.Control[iCurrent+4]=this.st_pbtype
-this.Control[iCurrent+5]=this.cb_ok
-this.Control[iCurrent+6]=this.st_3
-this.Control[iCurrent+7]=this.st_version
-this.Control[iCurrent+8]=this.st_1
-this.Control[iCurrent+9]=this.st_2
+this.Control[iCurrent+1]=this.st_4
+this.Control[iCurrent+2]=this.phl_logo
+this.Control[iCurrent+3]=this.st_exver
+this.Control[iCurrent+4]=this.st_os
+this.Control[iCurrent+5]=this.st_pbtype
+this.Control[iCurrent+6]=this.cb_ok
+this.Control[iCurrent+7]=this.st_3
+this.Control[iCurrent+8]=this.st_version
+this.Control[iCurrent+9]=this.st_1
+this.Control[iCurrent+10]=this.st_2
 end on
 
 on w_about.destroy
 call super::destroy
+destroy(this.st_4)
 destroy(this.phl_logo)
 destroy(this.st_exver)
 destroy(this.st_os)
@@ -104,6 +115,23 @@ destroy(this.st_version)
 destroy(this.st_1)
 destroy(this.st_2)
 end on
+
+type st_4 from statictext within w_about
+integer x = 105
+integer y = 704
+integer width = 187
+integer height = 128
+integer textsize = -12
+integer weight = 700
+fontcharset fontcharset = ansi!
+fontpitch fontpitch = variable!
+fontfamily fontfamily = swiss!
+string facename = "Segoe UI Symbol"
+long textcolor = 33554432
+long backcolor = 67108864
+string text = "$$HEX4$$3dd8ccdc3dd8ccdc$$ENDHEX$$"
+boolean focusrectangle = false
+end type
 
 type phl_logo from picturehyperlink within w_about
 integer x = 37
@@ -206,7 +234,7 @@ string facename = "MS Sans Serif"
 long textcolor = 33554432
 long backcolor = 73955432
 boolean enabled = false
-string text = "© yyyy Appeon. All rights reserved."
+string text = "$$HEX2$$a9002000$$ENDHEX$$yyyy Appeon. All rights reserved."
 alignment alignment = center!
 boolean focusrectangle = false
 end type

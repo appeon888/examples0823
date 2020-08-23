@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_style_ancestor.sru
+HA$PBExportHeader$u_style_ancestor.sru
 $PBExportComments$Edit Box with 3 pictures to set style (bold, italic, underline)
 forward
 global type u_style_ancestor from UserObject

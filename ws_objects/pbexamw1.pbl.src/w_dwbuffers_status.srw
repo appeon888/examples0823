@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dwbuffers_status.srw
+HA$PBExportHeader$w_dwbuffers_status.srw
 $PBExportComments$Sheet to display the DataWindow Row/Column status
 forward
 global type w_dwbuffers_status from w_dwbuffers_ancestor

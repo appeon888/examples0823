@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_datawindow_style_sheet.srw
+HA$PBExportHeader$w_datawindow_style_sheet.srw
 $PBExportComments$Frame sheet for DataWindow Style examples
 forward
 global type w_datawindow_style_sheet from w_center

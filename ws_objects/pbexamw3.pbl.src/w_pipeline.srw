@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_pipeline.srw
+HA$PBExportHeader$w_pipeline.srw
 $PBExportComments$Main window of the pipeline example
 forward
 global type w_pipeline from w_center

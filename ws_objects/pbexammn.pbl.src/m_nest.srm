@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_nest.srm
+HA$PBExportHeader$m_nest.srm
 $PBExportComments$Menu for the sheets on Nested Reports Example.
 forward
 global type m_nest from m_nest_frame

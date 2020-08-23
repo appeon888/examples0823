@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_uo_colors.srw
+HA$PBExportHeader$w_uo_colors.srw
 $PBExportComments$UO:  Shows 2 color-changer UOs
 forward
 global type w_uo_colors from w_center

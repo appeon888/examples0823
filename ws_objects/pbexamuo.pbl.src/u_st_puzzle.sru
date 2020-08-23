@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_st_puzzle.sru
+HA$PBExportHeader$u_st_puzzle.sru
 $PBExportComments$Subclassed Standard Text UO, used by the PowerPuzzle
 forward
 global type u_st_puzzle from statictext

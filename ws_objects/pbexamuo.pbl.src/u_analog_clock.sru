@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_analog_clock.sru
+HA$PBExportHeader$u_analog_clock.sru
 $PBExportComments$Graphic analog clock
 forward
 global type u_analog_clock from UserObject

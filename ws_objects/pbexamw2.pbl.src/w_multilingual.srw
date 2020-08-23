@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_multilingual.srw
+HA$PBExportHeader$w_multilingual.srw
 $PBExportComments$Select a language for the multilingual example
 forward
 global type w_multilingual from w_center

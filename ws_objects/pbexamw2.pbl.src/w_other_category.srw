@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_other_category.srw
+HA$PBExportHeader$w_other_category.srw
 $PBExportComments$Example showing how to create an "other" category on a graph
 forward
 global type w_other_category from w_center

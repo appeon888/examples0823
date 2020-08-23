@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_add_sales_order.srd
+HA$PBExportHeader$d_add_sales_order.srd
 $PBExportComments$DataWindow to add a new Sales Order
 release 9;
 datawindow(units=0 timer_interval=0 color=73955432 processing=0 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 107 print.margin.right = 107 print.margin.top = 97 print.margin.bottom = 97 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no )

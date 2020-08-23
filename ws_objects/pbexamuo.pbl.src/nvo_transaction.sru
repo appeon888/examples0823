@@ -1,4 +1,4 @@
-﻿$PBExportHeader$nvo_transaction.sru
+HA$PBExportHeader$nvo_transaction.sru
 $PBExportComments$Distributed PB example Transaction user object
 forward
 global type nvo_transaction from transaction

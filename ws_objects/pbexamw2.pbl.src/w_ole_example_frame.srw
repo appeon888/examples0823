@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_ole_example_frame.srw
+HA$PBExportHeader$w_ole_example_frame.srw
 $PBExportComments$Frame for w_ole_example
 forward
 global type w_ole_example_frame from w_center

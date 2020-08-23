@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_populateerror.srw
+HA$PBExportHeader$w_populateerror.srw
 $PBExportComments$Window demonstrating the use of the PopulateError function
 forward
 global type w_populateerror from w_center

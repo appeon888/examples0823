@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_frame_menu_functions.srm
+HA$PBExportHeader$m_frame_menu_functions.srm
 $PBExportComments$Frame menu for Menu Techniques example
 forward
 global type m_frame_menu_functions from menu

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_tag_help_frame.srw
+HA$PBExportHeader$w_tag_help_frame.srw
 $PBExportComments$MDI Frame window for Context-Sensitive MicroHelp example.
 forward
 global type w_tag_help_frame from w_center

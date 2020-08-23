@@ -1,4 +1,4 @@
-﻿$PBExportHeader$uo_about_old.sru
+HA$PBExportHeader$uo_about_old.sru
 $PBExportComments$Standard datawindow user object used to display system information
 forward
 global type uo_about_old from datawindow

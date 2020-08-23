@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_large_small.srw
+HA$PBExportHeader$w_large_small.srw
 $PBExportComments$Demonstrates the DataWindow functions Large() and Small()
 forward
 global type w_large_small from w_center

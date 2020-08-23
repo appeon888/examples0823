@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_external_function_win32.sru
+HA$PBExportHeader$u_external_function_win32.sru
 $PBExportComments$Cross platform user object for Win32
 forward
 global type u_external_function_win32 from u_external_function

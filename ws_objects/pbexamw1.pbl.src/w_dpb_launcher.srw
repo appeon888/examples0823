@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dpb_launcher.srw
+HA$PBExportHeader$w_dpb_launcher.srw
 $PBExportComments$Distributed PB Launcher
 forward
 global type w_dpb_launcher from w_center

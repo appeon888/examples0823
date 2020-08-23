@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_analog_clock.srw
+HA$PBExportHeader$w_analog_clock.srw
 $PBExportComments$Uses Analog clock User Object
 forward
 global type w_analog_clock from w_center

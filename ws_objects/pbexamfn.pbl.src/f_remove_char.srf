@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_remove_char.srf
+HA$PBExportHeader$f_remove_char.srf
 $PBExportComments$Removes all occurences of a specified character from a string
 global type f_remove_char from function_object
 end type

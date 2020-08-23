@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_example_report_frame.srw
+HA$PBExportHeader$w_example_report_frame.srw
 $PBExportComments$Frame window for Examples Report
 forward
 global type w_example_report_frame from w_center

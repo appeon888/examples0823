@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_dynamic_uo_open_udo.srm
+HA$PBExportHeader$m_dynamic_uo_open_udo.srm
 $PBExportComments$Menu: Used in the Dynamic User Object Example
 forward
 global type m_dynamic_uo_open_udo from menu

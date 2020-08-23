@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_style_descendant.sru
+HA$PBExportHeader$u_style_descendant.sru
 $PBExportComments$Descendant of u_style_ancestor, which shows extending, overiding and dynamically calling ancestor script for the various pictures.
 forward
 global type u_style_descendant from u_style_ancestor

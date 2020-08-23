@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_pie_explode.srw
+HA$PBExportHeader$w_graph_pie_explode.srw
 $PBExportComments$Retrieves a datawindow containing a pie graph with enhanced features. The pie graph can also be rotated in presentation style.
 forward
 global type w_graph_pie_explode from w_center

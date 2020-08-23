@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_datastore_share.srw
+HA$PBExportHeader$w_datastore_share.srw
 $PBExportComments$Window showing a DataWindow sharing data with DataStores
 forward
 global type w_datastore_share from w_center

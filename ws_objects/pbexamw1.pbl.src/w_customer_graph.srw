@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_customer_graph.srw
+HA$PBExportHeader$w_customer_graph.srw
 $PBExportComments$This window contains the customer balance datawindow and the graph object to graph the data
 forward
 global type w_customer_graph from w_graph_sheet

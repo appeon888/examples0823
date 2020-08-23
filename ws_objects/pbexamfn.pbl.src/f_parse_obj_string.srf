@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_parse_obj_string.srf
+HA$PBExportHeader$f_parse_obj_string.srf
 $PBExportComments$Used by the Quick Select Example.
 global type f_parse_obj_string from function_object
 end type

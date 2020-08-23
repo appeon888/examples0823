@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dynamic_uo_table_list.srw
+HA$PBExportHeader$w_dynamic_uo_table_list.srw
 $PBExportComments$MDI Sheet to define the datawindow that will be used in the Dynamic User Object Example.
 forward
 global type w_dynamic_uo_table_list from w_center

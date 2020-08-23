@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_date_datawindow.srm
+HA$PBExportHeader$m_date_datawindow.srm
 $PBExportComments$Menu for Year 2000 DataWindow example
 forward
 global type m_date_datawindow from m_date_ancestor

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_set_profile.srf
+HA$PBExportHeader$f_set_profile.srf
 $PBExportComments$Function to write to an INI file or the registry
 global type f_set_profile from function_object
 end type

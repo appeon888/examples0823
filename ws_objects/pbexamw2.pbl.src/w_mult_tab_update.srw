@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mult_tab_update.srw
+HA$PBExportHeader$w_mult_tab_update.srw
 $PBExportComments$Shows technique to allow multiple table updates from a single DataWindow
 forward
 global type w_mult_tab_update from w_center

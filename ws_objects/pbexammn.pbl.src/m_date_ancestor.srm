@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_date_ancestor.srm
+HA$PBExportHeader$m_date_ancestor.srm
 $PBExportComments$Ancestor menu for Year 2000 example
 forward
 global type m_date_ancestor from menu

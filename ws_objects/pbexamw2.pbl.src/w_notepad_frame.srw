@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_notepad_frame.srw
+HA$PBExportHeader$w_notepad_frame.srw
 $PBExportComments$Main MDI frame for w_notepad
 forward
 global type w_notepad_frame from w_center

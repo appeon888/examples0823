@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_global_replace.srw
+HA$PBExportHeader$w_global_replace.srw
 $PBExportComments$Window showing function overloading using a Global Replace function
 forward
 global type w_global_replace from w_center

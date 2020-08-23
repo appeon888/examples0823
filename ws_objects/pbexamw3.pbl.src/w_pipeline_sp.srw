@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_pipeline_sp.srw
+HA$PBExportHeader$w_pipeline_sp.srw
 $PBExportComments$Stored procedure source data pipeline example
 forward
 global type w_pipeline_sp from w_center

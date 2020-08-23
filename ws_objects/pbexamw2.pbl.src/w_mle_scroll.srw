@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mle_scroll.srw
+HA$PBExportHeader$w_mle_scroll.srw
 $PBExportComments$MultiLineEdits text behavior with various scrollbar and autoscroll attributes
 forward
 global type w_mle_scroll from w_center

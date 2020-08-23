@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_dyn_datawindow.sru
+HA$PBExportHeader$u_dyn_datawindow.sru
 $PBExportComments$UO: Containing Datawindow control for use in the Dynamic User Object Example
 forward
 global type u_dyn_datawindow from datawindow

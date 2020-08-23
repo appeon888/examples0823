@@ -1,4 +1,4 @@
-﻿$PBExportHeader$d_label_preview.srd
+HA$PBExportHeader$d_label_preview.srd
 $PBExportComments$Label DataWindow used for the labels example
 release 9;
 datawindow(units=2 timer_interval=0 color=1083244543 processing=2 HTMLDW=no print.printername="" print.documentname="" print.orientation = 0 print.margin.left = 281 print.margin.right = 280 print.margin.top = 500 print.margin.bottom = 500 print.paper.source = 0 print.paper.size = 0 print.canusedefaultprinter=yes print.prompt=no print.buttons=no print.preview.buttons=no print.cliptext=no print.overrideprintjob=no print.collate=yes hidegrayline=no label.name="Laser Address 0.50 x 1.75 5267" label.width=1750 label.height=500 label.rows=20 label.rows.spacing=0 label.columns=4 label.columns.spacing=313 label.topdown=no label.sheet=yes label.shape=roundrectangle label.ellipse_height=83 label.ellipse_width=83 )

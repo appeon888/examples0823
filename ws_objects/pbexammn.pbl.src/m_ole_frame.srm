@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_ole_frame.srm
+HA$PBExportHeader$m_ole_frame.srm
 $PBExportComments$Used by w_ole_frame for OLE 2.0 examples
 forward
 global type m_ole_frame from menu

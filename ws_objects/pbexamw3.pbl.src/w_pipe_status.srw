@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_pipe_status.srw
+HA$PBExportHeader$w_pipe_status.srw
 $PBExportComments$The pipeline status box
 forward
 global type w_pipe_status from w_center

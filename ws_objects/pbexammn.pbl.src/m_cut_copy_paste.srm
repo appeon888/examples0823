@@ -1,4 +1,4 @@
-﻿$PBExportHeader$m_cut_copy_paste.srm
+HA$PBExportHeader$m_cut_copy_paste.srm
 $PBExportComments$Menu for cut, copy, paste example
 forward
 global type m_cut_copy_paste from menu

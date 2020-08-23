@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_range_checker.sru
+HA$PBExportHeader$u_range_checker.sru
 $PBExportComments$Single line edit which accepts numeric input within a specific range
 forward
 global type u_range_checker from singlelineedit

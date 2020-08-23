@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_spellcheck.srw
+HA$PBExportHeader$w_spellcheck.srw
 $PBExportComments$OLE 2 example. checks spelling of an mle via excel
 forward
 global type w_spellcheck from w_center

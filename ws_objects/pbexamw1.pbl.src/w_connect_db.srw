@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_connect_db.srw
+HA$PBExportHeader$w_connect_db.srw
 $PBExportComments$Use DataWindow with either SetTrans or SetTransObject
 forward
 global type w_connect_db from w_center

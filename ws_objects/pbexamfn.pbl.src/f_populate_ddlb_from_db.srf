@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_populate_ddlb_from_db.srf
+HA$PBExportHeader$f_populate_ddlb_from_db.srf
 $PBExportComments$Populate a DropDownListBox with data from a table in the database.
 global type f_populate_ddlb_from_db from function_object
 end type

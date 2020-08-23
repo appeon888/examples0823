@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_system_error.srw
+HA$PBExportHeader$w_system_error.srw
 $PBExportComments$Generic error window used in the application systemerror event
 forward
 global type w_system_error from w_center

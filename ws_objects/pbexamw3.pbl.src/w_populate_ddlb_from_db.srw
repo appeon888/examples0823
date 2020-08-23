@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_populate_ddlb_from_db.srw
+HA$PBExportHeader$w_populate_ddlb_from_db.srw
 $PBExportComments$Fill DDLB at runtime from database using generalized function
 forward
 global type w_populate_ddlb_from_db from w_center

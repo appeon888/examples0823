@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_high_low_salaries.srw
+HA$PBExportHeader$w_high_low_salaries.srw
 $PBExportComments$Shows a bitmap indicator in DataWindow conditional on value of salary
 forward
 global type w_high_low_salaries from w_center

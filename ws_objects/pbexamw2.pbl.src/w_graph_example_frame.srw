@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_graph_example_frame.srw
+HA$PBExportHeader$w_graph_example_frame.srw
 $PBExportComments$This is the MDI frame for the set of graph examples
 forward
 global type w_graph_example_frame from w_center

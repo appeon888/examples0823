@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_employee_graph_list_sheet.srw
+HA$PBExportHeader$w_employee_graph_list_sheet.srw
 $PBExportComments$Window that parses through the employee datawindow and allows user to select which columns are graphed
 forward
 global type w_employee_graph_list_sheet from w_graph_sheet_with_list

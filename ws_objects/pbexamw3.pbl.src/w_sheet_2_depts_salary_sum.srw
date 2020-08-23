@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sheet_2_depts_salary_sum.srw
+HA$PBExportHeader$w_sheet_2_depts_salary_sum.srw
 $PBExportComments$Descendant:  (1) Dept. list; (2) Dept. Sum of Salary
 forward
 global type w_sheet_2_depts_salary_sum from w_sheet_2_dws

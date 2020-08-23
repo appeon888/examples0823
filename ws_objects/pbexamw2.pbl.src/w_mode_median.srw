@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_mode_median.srw
+HA$PBExportHeader$w_mode_median.srw
 $PBExportComments$Sets up a datawindow that contains aggregate functions of mode and median.
 forward
 global type w_mode_median from w_center

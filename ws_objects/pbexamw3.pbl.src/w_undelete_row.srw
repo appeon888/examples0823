@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_undelete_row.srw
+HA$PBExportHeader$w_undelete_row.srw
 $PBExportComments$An example of undeleting a DataWindow row using the dwRowsMove function.
 forward
 global type w_undelete_row from w_center

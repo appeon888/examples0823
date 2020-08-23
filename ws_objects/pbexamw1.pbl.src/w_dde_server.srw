@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dde_server.srw
+HA$PBExportHeader$w_dde_server.srw
 $PBExportComments$Works with w_dde_client to demonstrate how to do a PB DDE server
 forward
 global type w_dde_server from w_center

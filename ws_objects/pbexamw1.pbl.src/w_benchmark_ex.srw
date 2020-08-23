@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_benchmark_ex.srw
+HA$PBExportHeader$w_benchmark_ex.srw
 $PBExportComments$Performance Benchmarks Example
 forward
 global type w_benchmark_ex from w_center

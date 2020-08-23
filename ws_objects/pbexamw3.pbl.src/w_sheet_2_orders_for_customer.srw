@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_sheet_2_orders_for_customer.srw
+HA$PBExportHeader$w_sheet_2_orders_for_customer.srw
 $PBExportComments$Descendant:  Customer form, with list of orders
 forward
 global type w_sheet_2_orders_for_customer from w_sheet_2_dws

@@ -1,4 +1,4 @@
-﻿$PBExportHeader$f_char_to_boolean.srf
+HA$PBExportHeader$f_char_to_boolean.srf
 $PBExportComments$Converts a character to a boolean value (y = true, n = false)
 global type f_char_to_boolean from function_object
 end type

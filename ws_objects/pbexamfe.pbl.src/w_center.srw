@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_center.srw
+HA$PBExportHeader$w_center.srw
 $PBExportComments$Centers a window
 forward
 global type w_center from window

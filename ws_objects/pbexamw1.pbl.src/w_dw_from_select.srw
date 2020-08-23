@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_from_select.srw
+HA$PBExportHeader$w_dw_from_select.srw
 $PBExportComments$Create DW from user-selected table & columns
 forward
 global type w_dw_from_select from w_center

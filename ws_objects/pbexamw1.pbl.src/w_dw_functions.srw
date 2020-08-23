@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_dw_functions.srw
+HA$PBExportHeader$w_dw_functions.srw
 $PBExportComments$Shows common datawindow functions of Update, InsertRow, and DeleteRow.  Also shows RowCount functions.
 forward
 global type w_dw_functions from w_center

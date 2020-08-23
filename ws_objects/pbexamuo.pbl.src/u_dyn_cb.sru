@@ -1,4 +1,4 @@
-﻿$PBExportHeader$u_dyn_cb.sru
+HA$PBExportHeader$u_dyn_cb.sru
 $PBExportComments$User Object command button that is opened dynamically
 forward
 global type u_dyn_cb from UserObject

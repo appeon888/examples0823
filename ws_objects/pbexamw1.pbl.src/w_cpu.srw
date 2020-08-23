@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_cpu.srw
+HA$PBExportHeader$w_cpu.srw
 $PBExportComments$Use CPU function to show execution time of loop
 forward
 global type w_cpu from w_center

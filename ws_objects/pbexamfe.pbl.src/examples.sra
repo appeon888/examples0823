@@ -42,6 +42,8 @@ end variables
 
 global type examples from application
 string appname = "examples"
+string themepath = "C:\Program Files (x86)\Sybase\PowerBuilder 19.0\IDE\theme"
+string themename = "Flat Design Blue"
 boolean nativepdfvalid = false
 boolean nativepdfincludecustomfont = false
 string nativepdfappname = ""
@@ -181,6 +183,8 @@ if ls_usercontrol = "no" then toolbarusercontrol = false
 
 // Open the front-end window
 Open(w_main)
+//f_test()
+//test
 end event
 
 event systemerror;//////////////////////////////////////////////////////////////////////////////

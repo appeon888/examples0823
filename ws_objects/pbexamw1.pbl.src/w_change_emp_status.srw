@@ -1,4 +1,4 @@
-﻿$PBExportHeader$w_change_emp_status.srw
+HA$PBExportHeader$w_change_emp_status.srw
 $PBExportComments$Drag-and-drop to change Employee Status
 forward
 global type w_change_emp_status from w_center
