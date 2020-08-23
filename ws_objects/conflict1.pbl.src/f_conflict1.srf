@@ -1,0 +1,11 @@
+HA$PBExportHeader$f_conflict1.srf
+global type f_conflict1 from function_object
+end type
+
+forward prototypes
+global function integer f_conflict1 ()
+end prototypes
+
+global function integer f_conflict1 ();return 1
+end function
+
